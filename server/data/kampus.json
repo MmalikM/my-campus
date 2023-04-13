@@ -1,0 +1,192 @@
+[
+    {
+     "namaPTN": "UNIVERSITAS SUMATERA UTARA",
+     "idKampus": 1,
+     "imageUrl": "https://static.republika.co.id/uploads/member/images/news/hrwumrylig.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS NEGERI MEDAN",
+     "idKampus": 2,
+     "imageUrl": "https://file.maukuliah.id/img/gallery/001040/maukuliah-1675415613.png"
+    },
+    {
+     "namaPTN": "UNIVERSITAS RIAU",
+     "idKampus": 3,
+     "imageUrl": "https://www.riauonline.co.id/foto/bank/images2/Universitas-Negeri-Riau2.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS SRIWIJAYA",
+     "idKampus": 4,
+     "imageUrl": "https://elearning.unsri.ac.id/pluginfile.php/1/theme_lambda/slide1image/1673422320/kpa.jpeg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS LAMPUNG",
+     "idKampus": 5,
+     "imageUrl": "https://www.kalderanews.com/wp-content/uploads/2022/08/UNILA.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS INDONESIA",
+     "idKampus": 6,
+     "imageUrl": "https://static.republika.co.id/uploads/member/images/news/jb3jxign14.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+     "idKampus": 7,
+     "imageUrl": "https://upload.wikimedia.org/wikipedia/id/thumb/4/43/Gedung_Rektor.jpg/250px-Gedung_Rektor.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS NEGERI JAKARTA",
+     "idKampus": 8,
+     "imageUrl": "https://masuk-ptn.com/images/product/6de51bb6b61afd78744eebba0e6e03f040664e9d.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS \"VETERAN\" JAKARTA",
+     "idKampus": 9,
+     "imageUrl": "https://foto.kontan.co.id/c8dbB-2xZ45Up7yZdnjIAJowGVE=/smart/2021/03/30/440444023p.jpg"
+    },
+    {
+     "namaPTN": "INSTITUT TEKNOLOGI BANDUNG",
+     "idKampus": 10,
+     "imageUrl": "https://www.itb.ac.id/files/dokumentasi/1618210624-DSC_8353.JPG"
+    },
+    {
+     "namaPTN": "UNIVERSITAS PADJADJARAN",
+     "idKampus": 11,
+     "imageUrl": "https://statik.tempo.co/data/2021/01/04/id_991736/991736_720.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS PENDIDIKAN INDONESIA",
+     "idKampus": 12,
+     "imageUrl": "https://assets.pikiran-rakyat.com/crop/29x13:713x402/750x500/photo/2022/04/13/1720412352.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS DIPONEGORO",
+     "idKampus": 13,
+     "imageUrl": "https://mmc.tirto.id/image/2019/05/15/undip-website_ratio-16x9.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS NEGERI SEMARANG",
+     "idKampus": 14,
+     "imageUrl": "https://statik.tempo.co/data/2018/08/28/id_729437/729437_720.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS ISLAM NEGERI WALISONGO",
+     "idKampus": 15,
+     "imageUrl": "https://biayakuliah.net/wp-content/uploads/2014/08/Biaya-Kuliah-UIN-WALISONGO.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS GADJAH MADA",
+     "idKampus": 16,
+     "imageUrl": "https://media.kompas.tv/library/image/content_article/article_img/20220330021913.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS NEGERI YOGYAKARTA",
+     "idKampus": 17,
+     "imageUrl": "https://www.uny.ac.id/sites/default/files/2021-12/Kumbara%20Rektorat%20small_0.jpeg"
+    },
+    {
+     "namaPTN": "UPN \"VETERAN\" YOGYAKARTA",
+     "idKampus": 18,
+     "imageUrl": "https://images.bisnis.com/posts/2022/06/14/1543473/upn.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS ISLAM NEGERI GUNUNG JATI",
+     "idKampus": 19,
+     "imageUrl": "https://images.bisnis.com/posts/2022/06/14/1543473/upn.jpg"
+    },
+    {
+     "namaPTN": "INSTITUT PERTANIAN BOGOR",
+     "idKampus": 20,
+     "imageUrl": "https://dev.ipb.ac.id/media/images/tentang-ipb-selayang-pandang-ipb.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS JENDERAL SOEDIRMAN",
+     "idKampus": 21,
+     "imageUrl": "https://unsoed.ac.id/sites/default/files/articles/Utama%201_5.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS TIDAR",
+     "idKampus": 22,
+     "imageUrl": "https://unsoed.ac.id/sites/default/files/articles/Utama%201_5.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS SEBELAS MARET",
+     "idKampus": 23,
+     "imageUrl": "https://uns.ac.id/id/wp-content/uploads/uns-peringkat-6-nasional-webometrics.jpg"
+    },
+    {
+     "namaPTN": "ISI SURAKARTA",
+     "idKampus": 24,
+     "imageUrl": "https://uns.ac.id/id/wp-content/uploads/uns-peringkat-6-nasional-webometrics.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+     "idKampus": 25,
+     "imageUrl": "https://uns.ac.id/id/wp-content/uploads/uns-peringkat-6-nasional-webometrics.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS JEMBER",
+     "idKampus": 26,
+     "imageUrl": "https://beritajatim.com/wp-content/uploads/2022/04/Unej-gedung.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS BRAWIJAYA",
+     "idKampus": 27,
+     "imageUrl": "https://file.maukuliah.id/img/gallery/001019/maukuliah-1675409556.jpeg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS NEGERI MALANG",
+   "idKampus": 28,  
+     "imageUrl": "https://file.maukuliah.id/img/gallery/001019/maukuliah-1675409556.jpeg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS ISLAM NEGERI MALANG",
+     "idKampus": 29,
+     "imageUrl": "https://file.maukuliah.id/img/gallery/001019/maukuliah-1675409556.jpeg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS AIRLANGGA",
+     "idKampus": 30,
+     "imageUrl": "https://static.republika.co.id/uploads/member/images/news/h3is390n3v.jpg"
+    },
+    {
+     "namaPTN": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+     "idKampus": 31,
+     "imageUrl": "https://www.its.ac.id/wp-content/uploads/2017/09/Gambar2111-1-1024x683.jpg"
+    },
+    {
+     "namaPTN": "UNIVERSITAS NEGERI SURABAYA",
+     "idKampus": 32,
+     "imageUrl": "https://www.itb.ac.id/files/dokumentasi/1618210624-DSC_8353.JPG"
+    },
+    {
+     "namaPTN": "UPN \"VETERAN\" JAWA TIMUR",
+     "idKampus": 33,
+     "imageUrl": "https://www.itb.ac.id/files/dokumentasi/1618210624-DSC_8353.JPG"
+    },
+    {
+     "namaPTN": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+     "idKampus": 34,
+     "imageUrl": "https://www.itb.ac.id/files/dokumentasi/1618210624-DSC_8353.JPG"
+    },
+    {
+     "namaPTN": "UNIVERSITAS UDAYANA",
+     "idKampus": 35,
+     "imageUrl": "https://www.itb.ac.id/files/dokumentasi/1618210624-DSC_8353.JPG"
+    },
+    {
+     "namaPTN": "UNIVERSITAS HASANUDDIN",
+     "idKampus": 36,
+     "imageUrl": "https://www.itb.ac.id/files/dokumentasi/1618210624-DSC_8353.JPG"
+    },
+    {
+     "namaPTN": "UNIVERSITAS NEGERI MAKASSAR",
+     "idKampus": 37,
+     "imageUrl": "https://www.itb.ac.id/files/dokumentasi/1618210624-DSC_8353.JPG"
+    },
+    {
+     "namaPTN": "UNIVERSITAS TRUNOJOYO MADURA",
+     "idKampus": 38,
+     "imageUrl": "https://www.itb.ac.id/files/dokumentasi/1618210624-DSC_8353.JPG"
+    }
+   ]

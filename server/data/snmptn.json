@@ -1,0 +1,5818 @@
+[
+    {
+     "jurusan": "AKTUARIA",
+     "IdUniversitas": 6,
+     "nilai": 88.52
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 6,
+     "nilai": 90.24
+    },
+    {
+     "jurusan": "ANTROPOLOGI SOSIAL",
+     "IdUniversitas": 6,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "ARKEOLOGI INDONESIA",
+     "IdUniversitas": 6,
+     "nilai": 86.99
+    },
+    {
+     "jurusan": "ARSITEKTUR",
+     "IdUniversitas": 6,
+     "nilai": 89.77
+    },
+    {
+     "jurusan": "ARSITEKTUR IN IPRIOR",
+     "IdUniversitas": 6,
+     "nilai": 89.72
+    },
+    {
+     "jurusan": "BAHASA DAN KEBUDAYAAN  KOREA",
+     "IdUniversitas": 6,
+     "nilai": 86.86
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 6,
+     "nilai": 88.65
+    },
+    {
+     "jurusan": "BISNIS ISLAM",
+     "IdUniversitas": 6,
+     "nilai": 88.26
+    },
+    {
+     "jurusan": "FARMASI",
+     "IdUniversitas": 6,
+     "nilai": 90.23
+    },
+    {
+     "jurusan": "FISIKA",
+     "IdUniversitas": 6,
+     "nilai": 88.61
+    },
+    {
+     "jurusan": "GEOFISIKA",
+     "IdUniversitas": 6,
+     "nilai": 88.61
+    },
+    {
+     "jurusan": "GEOGRAFI",
+     "IdUniversitas": 6,
+     "nilai": 87.22
+    },
+    {
+     "jurusan": "GEOLOGI",
+     "IdUniversitas": 6,
+     "nilai": 87.24
+    },
+    {
+     "jurusan": "GIZI",
+     "IdUniversitas": 6,
+     "nilai": 89.75
+    },
+    {
+     "jurusan": "ILMU ADMINIS II-‹ASI FISKAL",
+     "IdUniversitas": 6,
+     "nilai": 89.16
+    },
+    {
+     "jurusan": "ILMU ADMINISTRASI NEGARA",
+     "IdUniversitas": 6,
+     "nilai": 88.23
+    },
+    {
+     "jurusan": "ILMU ADMINIS I   ASI NIAGA",
+     "IdUniversitas": 6,
+     "nilai": 89.14
+    },
+    {
+     "jurusan": "ILMU EKONOMI",
+     "IdUniversitas": 6,
+     "nilai": 89.14
+    },
+    {
+     "jurusan": "ILMU EKONOMI ISLAM",
+     "IdUniversitas": 6,
+     "nilai": 89.12
+    },
+    {
+     "jurusan": "ILMU FILSAFAT",
+     "IdUniversitas": 6,
+     "nilai": 87
+    },
+    {
+     "jurusan": "ILMU HUBUNGAN INTERNASIONAL",
+     "IdUniversitas": 6,
+     "nilai": 88.21
+    },
+    {
+     "jurusan": "ILMU HUKUM",
+     "IdUniversitas": 6,
+     "nilai": 88.21
+    },
+    {
+     "jurusan": "ILMU KEPERAWATAN",
+     "IdUniversitas": 6,
+     "nilai": 88.19
+    },
+    {
+     "jurusan": "ILMU KESEHATAN MASYARAKAT",
+     "IdUniversitas": 6,
+     "nilai": 89.74
+    },
+    {
+     "jurusan": "ILMU KESEJAHTERAAN  SOSIAL",
+     "IdUniversitas": 6,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "ILMU KOMPUTER",
+     "IdUniversitas": 6,
+     "nilai": 88.64
+    },
+    {
+     "jurusan": "ILMU KOMUNIKASI",
+     "IdUniversitas": 6,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "ILMU PERPUSTAKAAN",
+     "IdUniversitas": 6,
+     "nilai": 86.07
+    },
+    {
+     "jurusan": "ILMU POLITIK",
+     "IdUniversitas": 6,
+     "nilai": 87.68
+    },
+    {
+     "jurusan": "ILMU PSIKOLOGI",
+     "IdUniversitas": 6,
+     "nilai": 88.19
+    },
+    {
+     "jurusan": "ILMU SEJARAH",
+     "IdUniversitas": 6,
+     "nilai": 87
+    },
+    {
+     "jurusan": "KESEHATAN LINGKUNGAN",
+     "IdUniversitas": 6,
+     "nilai": 87.04
+    },
+    {
+     "jurusan": "KESELAMATAN  DAN KESEHATAN KERJA",
+     "IdUniversitas": 6,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "KIMIA",
+     "IdUniversitas": 6,
+     "nilai": 87.97
+    },
+    {
+     "jurusan": "KRIMINOLOGI",
+     "IdUniversitas": 6,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 6,
+     "nilai": 89.71
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 6,
+     "nilai": 88.19
+    },
+    {
+     "jurusan": "PENDIDIKAN DOKTER",
+     "IdUniversitas": 6,
+     "nilai": 90.97
+    },
+    {
+     "jurusan": "PENDIDIKAN DOKTER GIGI",
+     "IdUniversitas": 6,
+     "nilai": 90.19
+    },
+    {
+     "jurusan": "SAS IIIA  ARAB",
+     "IdUniversitas": 6,
+     "nilai": 86.91
+    },
+    {
+     "jurusan": "SASTRA BELANDA",
+     "IdUniversitas": 6,
+     "nilai": 86.94
+    },
+    {
+     "jurusan": "SASTRA CINA",
+     "IdUniversitas": 6,
+     "nilai": 86.98
+    },
+    {
+     "jurusan": "SASTRA DAERAH UNTUK SASTRA JAWA",
+     "IdUniversitas": 6,
+     "nilai": 85.65
+    },
+    {
+     "jurusan": "SASTRA INDONESIA",
+     "IdUniversitas": 6,
+     "nilai": 87.1
+    },
+    {
+     "jurusan": "SASTRA INGGRIS",
+     "IdUniversitas": 6,
+     "nilai": 87.52
+    },
+    {
+     "jurusan": "SASTRA JEPANG",
+     "IdUniversitas": 6,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "SAS II-‹A JERMAN",
+     "IdUniversitas": 6,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "SAS II-tA PERANGIS",
+     "IdUniversitas": 6,
+     "nilai": 88.94
+    },
+    {
+     "jurusan": "SASTRA RUSIA",
+     "IdUniversitas": 6,
+     "nilai": 86.38
+    },
+    {
+     "jurusan": "SIS II-M INFORMASI",
+     "IdUniversitas": 6,
+     "nilai": 89.74
+    },
+    {
+     "jurusan": "SOSIOLOGI",
+     "IdUniversitas": 6,
+     "nilai": 86.94
+    },
+    {
+     "jurusan": "STATISTIKA",
+     "IdUniversitas": 6,
+     "nilai": 88.51
+    },
+    {
+     "jurusan": "TEKNIK BIOMEDIS",
+     "IdUniversitas": 6,
+     "nilai": 87.53
+    },
+    {
+     "jurusan": "TEKNIK ELEKTRO",
+     "IdUniversitas": 6,
+     "nilai": 90.26
+    },
+    {
+     "jurusan": "TEKNIK INDUSTRI",
+     "IdUniversitas": 6,
+     "nilai": 90.27
+    },
+    {
+     "jurusan": "TEKNIK KIMIA",
+     "IdUniversitas": 6,
+     "nilai": 90.26
+    },
+    {
+     "jurusan": "II-KNIK KOMPUTER",
+     "IdUniversitas": 6,
+     "nilai": 90.25
+    },
+    {
+     "jurusan": "TEKNIK LINGKUNGAN",
+     "IdUniversitas": 6,
+     "nilai": 89.68
+    },
+    {
+     "jurusan": "TEKNIK MESIN",
+     "IdUniversitas": 6,
+     "nilai": 89.68
+    },
+    {
+     "jurusan": "TEKNIK METALURGI DAN MATERIAL",
+     "IdUniversitas": 6,
+     "nilai": 89.67
+    },
+    {
+     "jurusan": "TEKNIK PERKAPALAN",
+     "IdUniversitas": 6,
+     "nilai": 89.68
+    },
+    {
+     "jurusan": "TEKNIK SIPIL",
+     "IdUniversitas": 6,
+     "nilai": 89.67
+    },
+    {
+     "jurusan": "TEKNOLOGI BIOPROSES",
+     "IdUniversitas": 6,
+     "nilai": 87.94
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 8,
+     "nilai": 86.16
+    },
+    {
+     "jurusan": "BIMBINGAN DAN KONSELING",
+     "IdUniversitas": 8,
+     "nilai": 83.62
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 8,
+     "nilai": 84.59
+    },
+    {
+     "jurusan": "FISIKA",
+     "IdUniversitas": 8,
+     "nilai": 86.88
+    },
+    {
+     "jurusan": "ILMU KEOLAHRAGAAN",
+     "IdUniversitas": 8,
+     "nilai": 82.06
+    },
+    {
+     "jurusan": "ILMU KOMPUTER",
+     "IdUniversitas": 8,
+     "nilai": 85.64
+    },
+    {
+     "jurusan": "ILMU KOMUNIKASI",
+     "IdUniversitas": 8,
+     "nilai": 86.37
+    },
+    {
+     "jurusan": "KEPELATIHAN  KECABANGAN OLAHRAGA",
+     "IdUniversitas": 8,
+     "nilai": 83.33
+    },
+    {
+     "jurusan": "KIMIA",
+     "IdUniversitas": 8,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 8,
+     "nilai": 85.63
+    },
+    {
+     "jurusan": "MANAJEMEN PENDIDIKAN",
+     "IdUniversitas": 8,
+     "nilai": 81.94
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 8,
+     "nilai": 84.1
+    },
+    {
+     "jurusan": "OLAHRAGA REKREASI",
+     "IdUniversitas": 8,
+     "nilai": 83.33
+    },
+    {
+     "jurusan": "PENDIDIKAN GURU PAUD",
+     "IdUniversitas": 8,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "PENDIDIKAN ADMIN IS I &lt;ASI PERKANTORAN",
+     "IdUniversitas": 8,
+     "nilai": 83.65
+    },
+    {
+     "jurusan": "PENDIDIKAN AGAMA ISLAM",
+     "IdUniversitas": 8,
+     "nilai": 82.08
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA ARAB",
+     "IdUniversitas": 8,
+     "nilai": 86.82
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA INDONESIA",
+     "IdUniversitas": 8,
+     "nilai": 83.05
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA INGGRIS",
+     "IdUniversitas": 8,
+     "nilai": 83.49
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA  JEPANG",
+     "IdUniversitas": 8,
+     "nilai": 82.75
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA JERMAN",
+     "IdUniversitas": 8,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA MANDARIN",
+     "IdUniversitas": 8,
+     "nilai": 86.78
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA PRANCIS",
+     "IdUniversitas": 8,
+     "nilai": 86.85
+    },
+    {
+     "jurusan": "PENDIDIKAN BIOLOGI",
+     "IdUniversitas": 8,
+     "nilai": 86.82
+    },
+    {
+     "jurusan": "PENDIDIKAN BISNIS",
+     "IdUniversitas": 8,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "PENDIDIKAN EKONOMI",
+     "IdUniversitas": 8,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "PENDIDIKAN FISIKA",
+     "IdUniversitas": 8,
+     "nilai": 84.47
+    },
+    {
+     "jurusan": "PENDIDIKAN GEOGRAFI",
+     "IdUniversitas": 8,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "PENDIDIKAN GURU SEKOLAH DASAR",
+     "IdUniversitas": 8,
+     "nilai": 82.73
+    },
+    {
+     "jurusan": "PENDIDIKAN ILMU PENGETAHUAN  SOSIAL",
+     "IdUniversitas": 8,
+     "nilai": 86.78
+    },
+    {
+     "jurusan": "PENDIDIKAN INFORMATIKA",
+     "IdUniversitas": 8,
+     "nilai": 83.85
+    },
+    {
+     "jurusan": "PENDIDIKAN JASMANI",
+     "IdUniversitas": 8,
+     "nilai": 82.69
+    },
+    {
+     "jurusan": "PENDIDIKAN KEPELATIHAN OLAHRAGA",
+     "IdUniversitas": 8,
+     "nilai": 82.69
+    },
+    {
+     "jurusan": "PENDIDIKAN KHUSUS",
+     "IdUniversitas": 8,
+     "nilai": 86.82
+    },
+    {
+     "jurusan": "PENDIDIKAN KIMIA",
+     "IdUniversitas": 8,
+     "nilai": 86.84
+    },
+    {
+     "jurusan": "PENDIDIKAN MASYARAKAT",
+     "IdUniversitas": 8,
+     "nilai": 82.27
+    },
+    {
+     "jurusan": "PENDIDIKAN MA I I-MATIKA",
+     "IdUniversitas": 8,
+     "nilai": 84.44
+    },
+    {
+     "jurusan": "PENDIDIKAN MUSIK",
+     "IdUniversitas": 8,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "PENDIDIKAN PANCASILA DAN\nKEWARGANEGARAAN",
+     "IdUniversitas": 8,
+     "nilai": 86.88
+    },
+    {
+     "jurusan": "PENDIDIKAN SEJARAH",
+     "IdUniversitas": 8,
+     "nilai": 89.78
+    },
+    {
+     "jurusan": "PENDIDIKAN SENI RUPA",
+     "IdUniversitas": 8,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "PENDIDIKAN SOSIOLOGI",
+     "IdUniversitas": 8,
+     "nilai": 82.62
+    },
+    {
+     "jurusan": "PENDIDIKAN TARI",
+     "IdUniversitas": 8,
+     "nilai": 82.64
+    },
+    {
+     "jurusan": "PENDIDIKAN VOKASIONAL DESAIN FASHION",
+     "IdUniversitas": 8,
+     "nilai": 82.61
+    },
+    {
+     "jurusan": "PENDIDIKAN VOKASIONAL KESEJAHTERAAN\nKELUARGA",
+     "IdUniversitas": 8,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "PENDIDIKAN VOKASIONAL KONSTRUKSI\nBANGUNAN",
+     "IdUniversitas": 8,
+     "nilai": 86.88
+    },
+    {
+     "jurusan": "PENDIDIKAN VOKASIONAL SENI KULINER",
+     "IdUniversitas": 8,
+     "nilai": 82.61
+    },
+    {
+     "jurusan": "PENDIDIKAN VOKASIONAL TATA RIAS",
+     "IdUniversitas": 8,
+     "nilai": 82.59
+    },
+    {
+     "jurusan": "PENDIDIKAN VOKASIONAL TEKNIK ELEKTRO",
+     "IdUniversitas": 8,
+     "nilai": 83.52
+    },
+    {
+     "jurusan": "PENDIDIKAN VOKASIONAL  TEKNIK ELEKTRON IKA",
+     "IdUniversitas": 8,
+     "nilai": 83.51
+    },
+    {
+     "jurusan": "PENDIDIKAN VOKASIONAL TEKNIK MESIN",
+     "IdUniversitas": 8,
+     "nilai": 83.49
+    },
+    {
+     "jurusan": "PSIKOLOGI",
+     "IdUniversitas": 8,
+     "nilai": 85.61
+    },
+    {
+     "jurusan": "REKAYASA KESELAMATAN  KEBAKARAN",
+     "IdUniversitas": 8,
+     "nilai": 81.38
+    },
+    {
+     "jurusan": "SASTRA INDONESIA",
+     "IdUniversitas": 8,
+     "nilai": 83.04
+    },
+    {
+     "jurusan": "SAS II-‹A INGGRIS",
+     "IdUniversitas": 8,
+     "nilai": 83.47
+    },
+    {
+     "jurusan": "SOSIOLOGI",
+     "IdUniversitas": 8,
+     "nilai": 81.04
+    },
+    {
+     "jurusan": "STATISTIKA",
+     "IdUniversitas": 8,
+     "nilai": 84.46
+    },
+    {
+     "jurusan": "TEKNOLOGI PENDIDIKAN",
+     "IdUniversitas": 8,
+     "nilai": 86.8
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 9,
+     "nilai": 85.34
+    },
+    {
+     "jurusan": "EKONOMI PEMBANGUNAN",
+     "IdUniversitas": 9,
+     "nilai": 80.27
+    },
+    {
+     "jurusan": "EKONOMI SYARIAH",
+     "IdUniversitas": 9,
+     "nilai": 80.27
+    },
+    {
+     "jurusan": "FARMASI",
+     "IdUniversitas": 9,
+     "nilai": 80.36
+    },
+    {
+     "jurusan": "HUB. INTERNASIONAL",
+     "IdUniversitas": 9,
+     "nilai": 84.86
+    },
+    {
+     "jurusan": "HUKUM",
+     "IdUniversitas": 9,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "ILMU GIZI",
+     "IdUniversitas": 9,
+     "nilai": 83.31
+    },
+    {
+     "jurusan": "ILMU POLITIK",
+     "IdUniversitas": 9,
+     "nilai": 81.24
+    },
+    {
+     "jurusan": "KEDOKTERAN",
+     "IdUniversitas": 9,
+     "nilai": 85.86
+    },
+    {
+     "jurusan": "KEPERAWATAN",
+     "IdUniversitas": 9,
+     "nilai": 83.31
+    },
+    {
+     "jurusan": "KESEHATAN MASYARAKAT",
+     "IdUniversitas": 9,
+     "nilai": 84.85
+    },
+    {
+     "jurusan": "KOMUNIKASI",
+     "IdUniversitas": 9,
+     "nilai": 81.51
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 9,
+     "nilai": 84.82
+    },
+    {
+     "jurusan": "SISTEM INFORMASI",
+     "IdUniversitas": 9,
+     "nilai": 89.78
+    },
+    {
+     "jurusan": "TEKNIK ELEKTRO",
+     "IdUniversitas": 9,
+     "nilai": 85.44
+    },
+    {
+     "jurusan": "TEKNIK INDUSTRI",
+     "IdUniversitas": 9,
+     "nilai": 85.4
+    },
+    {
+     "jurusan": "II-KNIK INFORMATIKA",
+     "IdUniversitas": 9,
+     "nilai": 85.39
+    },
+    {
+     "jurusan": "TEKNIK MESIN",
+     "IdUniversitas": 9,
+     "nilai": 84.81
+    },
+    {
+     "jurusan": "TEKNIK PERKAPALAN",
+     "IdUniversitas": 9,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "AGRIBISNIS",
+     "IdUniversitas": 20,
+     "nilai": 88.21
+    },
+    {
+     "jurusan": "AGRONOM I DAN HORTIKULTURA",
+     "IdUniversitas": 20,
+     "nilai": 88.24
+    },
+    {
+     "jurusan": "AKTUARIA",
+     "IdUniversitas": 20,
+     "nilai": 88.21
+    },
+    {
+     "jurusan": "ARSITEKTUR LANSEKAP",
+     "IdUniversitas": 20,
+     "nilai": 88.72
+    },
+    {
+     "jurusan": "BIOKIMIA",
+     "IdUniversitas": 20,
+     "nilai": 88.72
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 20,
+     "nilai": 87.68
+    },
+    {
+     "jurusan": "BISNIS",
+     "IdUniversitas": 20,
+     "nilai": 87.27
+    },
+    {
+     "jurusan": "EKONOMI PEMBANGUNAN",
+     "IdUniversitas": 20,
+     "nilai": 88.2
+    },
+    {
+     "jurusan": "EKONOMI SUMBERDAYA DAN LINGKUNGAN",
+     "IdUniversitas": 20,
+     "nilai": 87.65
+    },
+    {
+     "jurusan": "EKONOMI SYARIAH",
+     "IdUniversitas": 20,
+     "nilai": 87.65
+    },
+    {
+     "jurusan": "FISIKA",
+     "IdUniversitas": 20,
+     "nilai": 87.64
+    },
+    {
+     "jurusan": "ILMU DAN  II-KNOLOGI KELAUTAN",
+     "IdUniversitas": 20,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "ILMU GIZI",
+     "IdUniversitas": 20,
+     "nilai": 87.17
+    },
+    {
+     "jurusan": "ILMU KELUARGA DAN KONSUMEN",
+     "IdUniversitas": 20,
+     "nilai": 85.12
+    },
+    {
+     "jurusan": "ILMU KOMPU II-R",
+     "IdUniversitas": 20,
+     "nilai": 87.64
+    },
+    {
+     "jurusan": "KEDOKTERAN  HEWAN",
+     "IdUniversitas": 20,
+     "nilai": 87.01
+    },
+    {
+     "jurusan": "KIMIA",
+     "IdUniversitas": 20,
+     "nilai": 87.03
+    },
+    {
+     "jurusan": "KOMUNIKASI DAN PENGEMBANGAN MASYARAKAT",
+     "IdUniversitas": 20,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "KONSERVASI SUMBERDAYA  HUTAN DAN\nEKOWISATA",
+     "IdUniversitas": 20,
+     "nilai": 86.91
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 20,
+     "nilai": 88.73
+    },
+    {
+     "jurusan": "MANAJEMEN HUTAN",
+     "IdUniversitas": 20,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "MANAJEMEN SUMBERDAYA LAHAN",
+     "IdUniversitas": 20,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "MANAJEMEN SUMBERDAYA  PERAIRAN",
+     "IdUniversitas": 20,
+     "nilai": 87
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 20,
+     "nilai": 87.22
+    },
+    {
+     "jurusan": "MI- I EOROLOGI 7ERAPAN",
+     "IdUniversitas": 20,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "NUTRISI DAN  I eKNOLOGI PAKAN",
+     "IdUniversitas": 20,
+     "nilai": 87
+    },
+    {
+     "jurusan": "PROTEKSI TANAMAN",
+     "IdUniversitas": 20,
+     "nilai": 86.99
+    },
+    {
+     "jurusan": "SILVIKULTUR",
+     "IdUniversitas": 20,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "STATISTIKA",
+     "IdUniversitas": 20,
+     "nilai": 87.54
+    },
+    {
+     "jurusan": "TEKNIK PERTANIAN DAN BIOSISTEM",
+     "IdUniversitas": 20,
+     "nilai": 88.7
+    },
+    {
+     "jurusan": "TEKNIK SIPIL DAN LINGKUNGAN",
+     "IdUniversitas": 20,
+     "nilai": 88.65
+    },
+    {
+     "jurusan": "TEKNOLOGI DAN MANAJEMEN PERIKANAN\nBUDIDAYA",
+     "IdUniversitas": 20,
+     "nilai": 86.99
+    },
+    {
+     "jurusan": "TEKNOLOGI DAN MANAJEMEN PERIKANAN\nTANGKAP",
+     "IdUniversitas": 20,
+     "nilai": 86.97
+    },
+    {
+     "jurusan": "TEKNOLOGI HASIL HUTAN",
+     "IdUniversitas": 20,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "TEKNOLOGI HASIL PERAIRAN",
+     "IdUniversitas": 20,
+     "nilai": 87.01
+    },
+    {
+     "jurusan": "TEKNOLOGI HASIL TERNAK",
+     "IdUniversitas": 20,
+     "nilai": 80.93
+    },
+    {
+     "jurusan": "TEKNOLOGI INDUSTRI PERTAN IAN",
+     "IdUniversitas": 20,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "TEKNOLOGI PANGAN",
+     "IdUniversitas": 20,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "TEKNOLOGI PRODUKSI TERNAK",
+     "IdUniversitas": 20,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "FAKULTAS ILMU DAN TEKNOLOGI KEBUMIAN",
+     "IdUniversitas": 10,
+     "nilai": 91
+    },
+    {
+     "jurusan": "FAKULTAS MATEMATIKA DAN ILMU\nPENGETAHUAN  ALAM (FMIPA)",
+     "IdUniversitas": 10,
+     "nilai": 88.7
+    },
+    {
+     "jurusan": "FAKULTAS  II-KNIK PERTAMBANGAN DAN\nPERMINYAKAN  (FTTM)",
+     "IdUniversitas": 10,
+     "nilai": 91.02
+    },
+    {
+     "jurusan": "FAKULTAS SENIRUPA DAN DESAIN (FSRD)",
+     "IdUniversitas": 10,
+     "nilai": 87.05
+    },
+    {
+     "jurusan": "FAKULTAS SENIRUPA DAN DESAIN (FSRD) -\nKAMPUS CIREBON",
+     "IdUniversitas": 10,
+     "nilai": 85.52
+    },
+    {
+     "jurusan": "FAKULTAS TEKNIK MESIN DAN DIRGANTARA\n(FTMD)",
+     "IdUniversitas": 10,
+     "nilai": 90.99
+    },
+    {
+     "jurusan": "FAKULTAS TEKNIK SIPIL DAN LINGKUNGAN (FTSL)\n- KAMPUS GANESA",
+     "IdUniversitas": 10,
+     "nilai": 90.56
+    },
+    {
+     "jurusan": "FAKULTAS TEKNIK SIPIL DAN LINGKUNGAN (FTSL)\n- KAMPUS JATINANGOR",
+     "IdUniversitas": 10,
+     "nilai": 90.55
+    },
+    {
+     "jurusan": "FAKULTAS TEKNOLOGI INDUSTRI (FTI) - KAMPUS\nCIREBON",
+     "IdUniversitas": 10,
+     "nilai": 91.01
+    },
+    {
+     "jurusan": "FAKULTAS  II-KNULUII INUUS I I-YI (f- I I) - KAMPUS\nGANESA",
+     "IdUniversitas": 10,
+     "nilai": 91.01
+    },
+    {
+     "jurusan": "FAKULTAS  ILKNOLOGI INDUSTRI (&gt; I I) - KAMPUS\nJATINANGOR",
+     "IdUniversitas": 10,
+     "nilai": 90.56
+    },
+    {
+     "jurusan": "SEKOLAH ARSITEKTUR, PERENC DAN PENGEMB\nKEBIJAKAN",
+     "IdUniversitas": 10,
+     "nilai": 91.01
+    },
+    {
+     "jurusan": "SEKOLAH ARSI II-KTUR, PERENC DAN PENGEMB\nKEBIJAKAN (SAPPK) - KAMPUS CIREBON",
+     "IdUniversitas": 10,
+     "nilai": 90.83
+    },
+    {
+     "jurusan": "SEKOLAH BISNIS DAN MANAJEMEN  (SBM)",
+     "IdUniversitas": 10,
+     "nilai": 87.42
+    },
+    {
+     "jurusan": "SEKOLAH FARMASI (SF)",
+     "IdUniversitas": 10,
+     "nilai": 90.4
+    },
+    {
+     "jurusan": "SEKOLAH ILMU DAN  IL-KNO HAYATI - PROG\nREKAYASA",
+     "IdUniversitas": 10,
+     "nilai": 88.84
+    },
+    {
+     "jurusan": "ÛL-KULAH ILMU UAN  IL-KNU HAYA I I - OL'iUN SAINT",
+     "IdUniversitas": 10,
+     "nilai": 88.84
+    },
+    {
+     "jurusan": "SEKOLAH TEKNIK ELEKTRO DAN INFORMATIKA\n(STEI)",
+     "IdUniversitas": 10,
+     "nilai": 91.22
+    },
+    {
+     "jurusan": "ADMINIS II-‹ASI PENDIDIKAN",
+     "IdUniversitas": 12,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 12,
+     "nilai": 85.9
+    },
+    {
+     "jurusan": "ARSITEKTUR",
+     "IdUniversitas": 12,
+     "nilai": 85.39
+    },
+    {
+     "jurusan": "BAHASA DAN SASTRA INDONESIA",
+     "IdUniversitas": 12,
+     "nilai": 86.78
+    },
+    {
+     "jurusan": "BAHASA DAN SASTRA INGGRIS",
+     "IdUniversitas": 12,
+     "nilai": 83.37
+    },
+    {
+     "jurusan": "BIMBINGAN DAN KONSELING",
+     "IdUniversitas": 12,
+     "nilai": 83.37
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 12,
+     "nilai": 84.36
+    },
+    {
+     "jurusan": "DESAIN KOMUNIKASI VISUAL",
+     "IdUniversitas": 12,
+     "nilai": 82.76
+    },
+    {
+     "jurusan": "FISIKA",
+     "IdUniversitas": 12,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "ILMU EKONOMI DAN KEUANGAN ISLAM",
+     "IdUniversitas": 12,
+     "nilai": 84.8
+    },
+    {
+     "jurusan": "ILMU KEOLAHRAGAAN",
+     "IdUniversitas": 12,
+     "nilai": 86.88
+    },
+    {
+     "jurusan": "ILMU KOMPUTER",
+     "IdUniversitas": 12,
+     "nilai": 84.32
+    },
+    {
+     "jurusan": "ILMU KOMUNIKASI",
+     "IdUniversitas": 12,
+     "nilai": 82.08
+    },
+    {
+     "jurusan": "ILMU PENDIDIKAN AGAMA ISLAM",
+     "IdUniversitas": 12,
+     "nilai": 81.78
+    },
+    {
+     "jurusan": "KEWIRAUSAHAAN",
+     "IdUniversitas": 12,
+     "nilai": 82.35
+    },
+    {
+     "jurusan": "KIMIA",
+     "IdUniversitas": 12,
+     "nilai": 86.82
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 12,
+     "nilai": 85.39
+    },
+    {
+     "jurusan": "MANAJEMEN INDUS II-t I KA II-RING",
+     "IdUniversitas": 12,
+     "nilai": 86.82
+    },
+    {
+     "jurusan": "MANAJEMEN PEMASARAN PARIW ISATA",
+     "IdUniversitas": 12,
+     "nilai": 81.71
+    },
+    {
+     "jurusan": "MANAJEMEN RESORT DAN LEISURE",
+     "IdUniversitas": 12,
+     "nilai": 81.71
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 12,
+     "nilai": 83.87
+    },
+    {
+     "jurusan": "PENDIDIKAN JASMANI KESEHATAN DAN\nREKREASI  fPJKR)",
+     "IdUniversitas": 12,
+     "nilai": 86.78
+    },
+    {
+     "jurusan": "PENDIDIKAN AKUNTANSI",
+     "IdUniversitas": 12,
+     "nilai": 86.85
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA ARAB",
+     "IdUniversitas": 12,
+     "nilai": 86.78
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA DAERAH",
+     "IdUniversitas": 12,
+     "nilai": 86.86
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA INGGRIS",
+     "IdUniversitas": 12,
+     "nilai": 83.25
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA JEPANG",
+     "IdUniversitas": 12,
+     "nilai": 86.78
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA  JERMAN",
+     "IdUniversitas": 12,
+     "nilai": 82.08
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA KOREA",
+     "IdUniversitas": 12,
+     "nilai": 82.09
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA PERANCIS",
+     "IdUniversitas": 12,
+     "nilai": 82.08
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASADAN SASTRA INDONESIA",
+     "IdUniversitas": 12,
+     "nilai": 82.81
+    },
+    {
+     "jurusan": "PENDIDIKAN BIOLOGI",
+     "IdUniversitas": 12,
+     "nilai": 84.22
+    },
+    {
+     "jurusan": "PENDIDIKAN EKONOMI",
+     "IdUniversitas": 12,
+     "nilai": 86.87
+    },
+    {
+     "jurusan": "PENDIDIKAN FISIKA",
+     "IdUniversitas": 12,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "PENDIDIKAN GEOGRAFI",
+     "IdUniversitas": 12,
+     "nilai": 86.84
+    },
+    {
+     "jurusan": "PENDIDIKAN ILMU KOMPU I eR",
+     "IdUniversitas": 12,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "PENDIDIKAN ILMU PENGETAHUAN  ALAM",
+     "IdUniversitas": 12,
+     "nilai": 82.47
+    },
+    {
+     "jurusan": "PENDIDIKAN IPS",
+     "IdUniversitas": 12,
+     "nilai": 86.88
+    },
+    {
+     "jurusan": "PENDIDIKAN KELAUTAN DAN PERIKANAN\n(KAMPUS SERANG)",
+     "IdUniversitas": 12,
+     "nilai": 82.25
+    },
+    {
+     "jurusan": "PENDIDIKAN KEPELATIHAN OLAHRAGA",
+     "IdUniversitas": 12,
+     "nilai": 86.8
+    },
+    {
+     "jurusan": "PENDIDIKAN KESEJAHTERAAN KELUARGA",
+     "IdUniversitas": 12,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "PENDIDIKAN KIMIA",
+     "IdUniversitas": 12,
+     "nilai": 86.84
+    },
+    {
+     "jurusan": "PENDIDIKAN LUAR BIASA",
+     "IdUniversitas": 12,
+     "nilai": 82.4
+    },
+    {
+     "jurusan": "PENDIDIKAN LUAR SEKOLAH",
+     "IdUniversitas": 12,
+     "nilai": 82.43
+    },
+    {
+     "jurusan": "PENDIDIKAN MANAJEMEN BISNIS",
+     "IdUniversitas": 12,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "PENDIDIKAN MANAJEMEN PERKANTORAN",
+     "IdUniversitas": 12,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "PENDIDIKAN MA I I-MATIKA",
+     "IdUniversitas": 12,
+     "nilai": 86.8
+    },
+    {
+     "jurusan": "PENDIDIKAN MULTIMEDIA KAMPUS CIBIRU",
+     "IdUniversitas": 12,
+     "nilai": 81.25
+    },
+    {
+     "jurusan": "PENDIDIKAN SEJARAH",
+     "IdUniversitas": 12,
+     "nilai": 86.84
+    },
+    {
+     "jurusan": "PENDIDIKAN SENI MUSIK",
+     "IdUniversitas": 12,
+     "nilai": 86.88
+    },
+    {
+     "jurusan": "PENDIDIKAN SENI RUPA DAN KERAJ INAN",
+     "IdUniversitas": 12,
+     "nilai": 82.36
+    },
+    {
+     "jurusan": "PENDIDIKAN SENI TARI",
+     "IdUniversitas": 12,
+     "nilai": 82.37
+    },
+    {
+     "jurusan": "PENDIDIKAN SISTEM DAN TEKNOLOGI INFORMASI\n(KAMPUS PURWAKARTAJ",
+     "IdUniversitas": 12,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "PENDIDIKAN SOSIOLOGI",
+     "IdUniversitas": 12,
+     "nilai": 82.37
+    },
+    {
+     "jurusan": "PENDIDIKAN TATA BOGA",
+     "IdUniversitas": 12,
+     "nilai": 82.35
+    },
+    {
+     "jurusan": "PENDIDIKAN TATA BUSANA",
+     "IdUniversitas": 12,
+     "nilai": 82.36
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK ARSITEKTUR",
+     "IdUniversitas": 12,
+     "nilai": 86.94
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK BANGUNAN",
+     "IdUniversitas": 12,
+     "nilai": 82.83
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK ELEKTRO",
+     "IdUniversitas": 12,
+     "nilai": 83.27
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK MESIN",
+     "IdUniversitas": 12,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "PENDIDIKAN  II-KNOLOGI AGRO INDUS II-t I",
+     "IdUniversitas": 12,
+     "nilai": 86.82
+    },
+    {
+     "jurusan": "PERPUSTAKAAN DAN INFORMASI",
+     "IdUniversitas": 12,
+     "nilai": 81.44
+    },
+    {
+     "jurusan": "PG PAUD (KAMPUS BUMI SILIWANGI)",
+     "IdUniversitas": 12,
+     "nilai": 81.43
+    },
+    {
+     "jurusan": "PG PAUD (KAMPUS CIBIRU)",
+     "IdUniversitas": 12,
+     "nilai": 81.43
+    },
+    {
+     "jurusan": "PG PAUD (KAMPUS PURWAKARTA)",
+     "IdUniversitas": 12,
+     "nilai": 81.42
+    },
+    {
+     "jurusan": "PG PAUD (KAMPUS SERANG)",
+     "IdUniversitas": 12,
+     "nilai": 81.42
+    },
+    {
+     "jurusan": "PG PAUD (KAMPUS TASIKMALAYA)",
+     "IdUniversitas": 12,
+     "nilai": 81.43
+    },
+    {
+     "jurusan": "PGSD (KAMPUS BUMI SILIWANGI)",
+     "IdUniversitas": 12,
+     "nilai": 86.8
+    },
+    {
+     "jurusan": "PGSD (KAMPUS GIBIRU)",
+     "IdUniversitas": 12,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "PGSD (KAMPUS PURWAKARTA)",
+     "IdUniversitas": 12,
+     "nilai": 81.42
+    },
+    {
+     "jurusan": "PGSD (KAMPUS SERANG)",
+     "IdUniversitas": 12,
+     "nilai": 81.41
+    },
+    {
+     "jurusan": "PGSD (KAMPUS SUMEDANG)",
+     "IdUniversitas": 12,
+     "nilai": 81.42
+    },
+    {
+     "jurusan": "PGSD (KAMPUS TASIKMALAYA)",
+     "IdUniversitas": 12,
+     "nilai": 81.4
+    },
+    {
+     "jurusan": "PGSD PENDIDIKAN JASMANI (KAMPUS BUMI\nSILIWANGI)",
+     "IdUniversitas": 12,
+     "nilai": 81.39
+    },
+    {
+     "jurusan": "PGSD PENDIDIKAN JASMANI (KAMPUS\nSUMEDANG)",
+     "IdUniversitas": 12,
+     "nilai": 81.4
+    },
+    {
+     "jurusan": "PENDIDIKAN KEWARGANEGARAAN",
+     "IdUniversitas": 12,
+     "nilai": 86.86
+    },
+    {
+     "jurusan": "PSIKOLOGI",
+     "IdUniversitas": 12,
+     "nilai": 85.36
+    },
+    {
+     "jurusan": "SAINS INFORMASI GEOGRAFI",
+     "IdUniversitas": 12,
+     "nilai": 86.88
+    },
+    {
+     "jurusan": "TEKNIK ELEKTRO",
+     "IdUniversitas": 12,
+     "nilai": 85.93
+    },
+    {
+     "jurusan": "TEKNIK SIPIL",
+     "IdUniversitas": 12,
+     "nilai": 85.35
+    },
+    {
+     "jurusan": "TEKNOLOGI PENDIDIKAN",
+     "IdUniversitas": 12,
+     "nilai": 86.88
+    },
+    {
+     "jurusan": "AGRIBISNIS",
+     "IdUniversitas": 11,
+     "nilai": 87.71
+    },
+    {
+     "jurusan": "AGROTEKNOLOGI",
+     "IdUniversitas": 11,
+     "nilai": 87.7
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 11,
+     "nilai": 88.73
+    },
+    {
+     "jurusan": "ANTROPOLOGI",
+     "IdUniversitas": 11,
+     "nilai": 88.73
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 11,
+     "nilai": 87.18
+    },
+    {
+     "jurusan": "EKONOMI ISLAM",
+     "IdUniversitas": 11,
+     "nilai": 87.13
+    },
+    {
+     "jurusan": "EKONOMI PEMBANGUNAN",
+     "IdUniversitas": 11,
+     "nilai": 87.67
+    },
+    {
+     "jurusan": "FARMASI",
+     "IdUniversitas": 11,
+     "nilai": 88.73
+    },
+    {
+     "jurusan": "FISIKA",
+     "IdUniversitas": 11,
+     "nilai": 87.13
+    },
+    {
+     "jurusan": "GEOFISIKA",
+     "IdUniversitas": 11,
+     "nilai": 86.96
+    },
+    {
+     "jurusan": "HUBUNGAN MASYARAKAT",
+     "IdUniversitas": 11,
+     "nilai": 86.91
+    },
+    {
+     "jurusan": "ILMU AOMINISTRASI BISNIS",
+     "IdUniversitas": 11,
+     "nilai": 87.64
+    },
+    {
+     "jurusan": "ILMU ADMINISTRASI NEGARA",
+     "IdUniversitas": 11,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "ILMU HUBUNGAN INTERNASIONAL",
+     "IdUniversitas": 11,
+     "nilai": 86.91
+    },
+    {
+     "jurusan": "ILMU HUKUM",
+     "IdUniversitas": 11,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "ILMU KELAUTAN",
+     "IdUniversitas": 11,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "ILMU KEPERAWATAN",
+     "IdUniversitas": 11,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "ILMU KESEJAHTERAAN  SOSIAL",
+     "IdUniversitas": 11,
+     "nilai": 84.6
+    },
+    {
+     "jurusan": "ILMU KOMUNIKASI",
+     "IdUniversitas": 11,
+     "nilai": 84.89
+    },
+    {
+     "jurusan": "ILMU PEMERINTAHAN",
+     "IdUniversitas": 11,
+     "nilai": 84.89
+    },
+    {
+     "jurusan": "ILMU PERPUSTAKAAN",
+     "IdUniversitas": 11,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "ILMU PETERNAKAN",
+     "IdUniversitas": 11,
+     "nilai": 86
+    },
+    {
+     "jurusan": "ILMU POLITIK",
+     "IdUniversitas": 11,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "ILMU SEJARAH",
+     "IdUniversitas": 11,
+     "nilai": 86.94
+    },
+    {
+     "jurusan": "JURNALISTIK",
+     "IdUniversitas": 11,
+     "nilai": 86.88
+    },
+    {
+     "jurusan": "KEDOKTERAN  HEWAN",
+     "IdUniversitas": 11,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "KIMIA",
+     "IdUniversitas": 11,
+     "nilai": 87
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 11,
+     "nilai": 88.19
+    },
+    {
+     "jurusan": "MANAJEMEN KOMUNIKASI",
+     "IdUniversitas": 11,
+     "nilai": 86.88
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 11,
+     "nilai": 86.99
+    },
+    {
+     "jurusan": "PENDIDIKAN DOKTER",
+     "IdUniversitas": 11,
+     "nilai": 89.47
+    },
+    {
+     "jurusan": "PENDIDIKAN DOKTER GIGI",
+     "IdUniversitas": 11,
+     "nilai": 88.68
+    },
+    {
+     "jurusan": "PERIKANAN",
+     "IdUniversitas": 11,
+     "nilai": 84.85
+    },
+    {
+     "jurusan": "PSIKOLOGI",
+     "IdUniversitas": 11,
+     "nilai": 88.16
+    },
+    {
+     "jurusan": "SASTRA ARAB",
+     "IdUniversitas": 11,
+     "nilai": 86.97
+    },
+    {
+     "jurusan": "SAS II-‹A INDONESIA",
+     "IdUniversitas": 11,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "SASTRA INGGRIS",
+     "IdUniversitas": 11,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "SASTRA JEPANG",
+     "IdUniversitas": 11,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "SASTRA JERMAN",
+     "IdUniversitas": 11,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "SAS II-‹A PERANCIS",
+     "IdUniversitas": 11,
+     "nilai": 84.88
+    },
+    {
+     "jurusan": "SASTRA RUSIA",
+     "IdUniversitas": 11,
+     "nilai": 84.88
+    },
+    {
+     "jurusan": "SASTRA SUNDA",
+     "IdUniversitas": 11,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "SOSIOLOGI",
+     "IdUniversitas": 11,
+     "nilai": 84.09
+    },
+    {
+     "jurusan": "STATISTIKA",
+     "IdUniversitas": 11,
+     "nilai": 86.97
+    },
+    {
+     "jurusan": "TEKNIK ELEKTRO",
+     "IdUniversitas": 11,
+     "nilai": 88.77
+    },
+    {
+     "jurusan": "TEKNIK GEOLOGI",
+     "IdUniversitas": 11,
+     "nilai": 88.21
+    },
+    {
+     "jurusan": "TEKNIK INFORMATIKA",
+     "IdUniversitas": 11,
+     "nilai": 88.72
+    },
+    {
+     "jurusan": "TEKNIK PERTANIAN",
+     "IdUniversitas": 11,
+     "nilai": 87.61
+    },
+    {
+     "jurusan": "TEKNOLOGI INDUSTRI PERTANIAN",
+     "IdUniversitas": 11,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "TEKNOLOGI PANGAN",
+     "IdUniversitas": 11,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "TELEVISI DAN FILM",
+     "IdUniversitas": 11,
+     "nilai": 84.06
+    },
+    {
+     "jurusan": "AGRIBISNIS",
+     "IdUniversitas": 13,
+     "nilai": 87.24
+    },
+    {
+     "jurusan": "AGROEKOTEKNOLOGI",
+     "IdUniversitas": 13,
+     "nilai": 87.23
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 13,
+     "nilai": 88.23
+    },
+    {
+     "jurusan": "ANTROPOLOGI SOSIAL",
+     "IdUniversitas": 13,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "BAHASA DAN SASTRA INDONESIA",
+     "IdUniversitas": 13,
+     "nilai": 85.24
+    },
+    {
+     "jurusan": "BAHASA DAN SASTRA INGGRIS",
+     "IdUniversitas": 13,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "BAHASA JEPANG",
+     "IdUniversitas": 13,
+     "nilai": 84.84
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 13,
+     "nilai": 86.65
+    },
+    {
+     "jurusan": "BIO II-KNOLOGI",
+     "IdUniversitas": 13,
+     "nilai": 82.02
+    },
+    {
+     "jurusan": "BUDIDAYA PERAIRAN",
+     "IdUniversitas": 13,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "EKONOMI ISLAM",
+     "IdUniversitas": 13,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "FARMASI",
+     "IdUniversitas": 13,
+     "nilai": 88.21
+    },
+    {
+     "jurusan": "FISIKA",
+     "IdUniversitas": 13,
+     "nilai": 86.63
+    },
+    {
+     "jurusan": "HUBUNGAN INTERNASIONAL",
+     "IdUniversitas": 13,
+     "nilai": 86.91
+    },
+    {
+     "jurusan": "ILMU ADMINIS II-tASI BISNIS",
+     "IdUniversitas": 13,
+     "nilai": 87.14
+    },
+    {
+     "jurusan": "ILMU ADMINISTRASI PUBLIK",
+     "IdUniversitas": 13,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "ILMU EKONOMI DAN STUDI PEMBANGUNAN",
+     "IdUniversitas": 13,
+     "nilai": 87.16
+    },
+    {
+     "jurusan": "ILMU GIZI",
+     "IdUniversitas": 13,
+     "nilai": 87.16
+    },
+    {
+     "jurusan": "ILMU HUKUM",
+     "IdUniversitas": 13,
+     "nilai": 86.98
+    },
+    {
+     "jurusan": "ILMU KELAUTAN",
+     "IdUniversitas": 13,
+     "nilai": 86.99
+    },
+    {
+     "jurusan": "ILMU KEPERAWATAN",
+     "IdUniversitas": 13,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "ILMU PERPUSTAKAAN",
+     "IdUniversitas": 13,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "KEDOKTERAN  GIGI",
+     "IdUniversitas": 13,
+     "nilai": 88.19
+    },
+    {
+     "jurusan": "KESEHATAN MASYARAKAT",
+     "IdUniversitas": 13,
+     "nilai": 87.74
+    },
+    {
+     "jurusan": "KIMIA",
+     "IdUniversitas": 13,
+     "nilai": 85.97
+    },
+    {
+     "jurusan": "KOMUNIKASI",
+     "IdUniversitas": 13,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 13,
+     "nilai": 87.72
+    },
+    {
+     "jurusan": "MANAJEMEN SUMBER DAYA PERAIRAN",
+     "IdUniversitas": 13,
+     "nilai": 86.96
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 13,
+     "nilai": 86.17
+    },
+    {
+     "jurusan": "OCEANOGRAFI",
+     "IdUniversitas": 13,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "PEMANFAATAN  SUMBER DAYA PERIKANAN",
+     "IdUniversitas": 13,
+     "nilai": 83.98
+    },
+    {
+     "jurusan": "PEMERINTAHAN",
+     "IdUniversitas": 13,
+     "nilai": 86.88
+    },
+    {
+     "jurusan": "PENDIDIKAN DOKTER",
+     "IdUniversitas": 13,
+     "nilai": 88.75
+    },
+    {
+     "jurusan": "PI- I ERNAKAN",
+     "IdUniversitas": 13,
+     "nilai": 87.01
+    },
+    {
+     "jurusan": "PSIKOLOGI",
+     "IdUniversitas": 13,
+     "nilai": 87.68
+    },
+    {
+     "jurusan": "SEJARAH INDONESIA",
+     "IdUniversitas": 13,
+     "nilai": 83.64
+    },
+    {
+     "jurusan": "SISTEM KOMPU II-R",
+     "IdUniversitas": 13,
+     "nilai": 87.75
+    },
+    {
+     "jurusan": "STATISTIKA",
+     "IdUniversitas": 13,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "TEKNIK ARSITEKTUR",
+     "IdUniversitas": 13,
+     "nilai": 87.7
+    },
+    {
+     "jurusan": "TEKNIK ELEKTRO",
+     "IdUniversitas": 13,
+     "nilai": 88.28
+    },
+    {
+     "jurusan": "TEKNIK GEODESI",
+     "IdUniversitas": 13,
+     "nilai": 87.73
+    },
+    {
+     "jurusan": "TEKNIK GEOLOGI",
+     "IdUniversitas": 13,
+     "nilai": 87.71
+    },
+    {
+     "jurusan": "TEKNIK INDUSTRI",
+     "IdUniversitas": 13,
+     "nilai": 88.29
+    },
+    {
+     "jurusan": "TEKNIK INFORMATIKA",
+     "IdUniversitas": 13,
+     "nilai": 88.27
+    },
+    {
+     "jurusan": "II-KNIK KIMIA",
+     "IdUniversitas": 13,
+     "nilai": 88.27
+    },
+    {
+     "jurusan": "TEKNIK LINGKUNGAN",
+     "IdUniversitas": 13,
+     "nilai": 87.7
+    },
+    {
+     "jurusan": "TEKNIK MESIN",
+     "IdUniversitas": 13,
+     "nilai": 87.69
+    },
+    {
+     "jurusan": "TEKNIK PERENCANAAN  WILAYAH KOTA",
+     "IdUniversitas": 13,
+     "nilai": 87.13
+    },
+    {
+     "jurusan": "TEKNIK PERKAPALAN",
+     "IdUniversitas": 13,
+     "nilai": 87.69
+    },
+    {
+     "jurusan": "TEKNIK SIPIL",
+     "IdUniversitas": 13,
+     "nilai": 87.67
+    },
+    {
+     "jurusan": "TEKNOLOGI HASIL PERIKANAN",
+     "IdUniversitas": 13,
+     "nilai": 86.98
+    },
+    {
+     "jurusan": "TEKNOLOGI PANGAN",
+     "IdUniversitas": 13,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 14,
+     "nilai": 86.8
+    },
+    {
+     "jurusan": "BIMBINGAN DAN KONSELING",
+     "IdUniversitas": 14,
+     "nilai": 81.91
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 14,
+     "nilai": 86.82
+    },
+    {
+     "jurusan": "EKONOMI PEMBANGUNAN",
+     "IdUniversitas": 14,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "FARMASI",
+     "IdUniversitas": 14,
+     "nilai": 80.68
+    },
+    {
+     "jurusan": "FISIKA",
+     "IdUniversitas": 14,
+     "nilai": 80.86
+    },
+    {
+     "jurusan": "GEOGRAFI",
+     "IdUniversitas": 14,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "GIZI",
+     "IdUniversitas": 14,
+     "nilai": 81.86
+    },
+    {
+     "jurusan": "ILMU HUKUM",
+     "IdUniversitas": 14,
+     "nilai": 86.88
+    },
+    {
+     "jurusan": "ILMU KEOLAHRAGAAN",
+     "IdUniversitas": 14,
+     "nilai": 82.37
+    },
+    {
+     "jurusan": "ILMU LINGKUNGAN",
+     "IdUniversitas": 14,
+     "nilai": 81.28
+    },
+    {
+     "jurusan": "ILMU POLITIK",
+     "IdUniversitas": 14,
+     "nilai": 86.87
+    },
+    {
+     "jurusan": "ILMU SEJARAH",
+     "IdUniversitas": 14,
+     "nilai": 81.32
+    },
+    {
+     "jurusan": "KESEHATAN MASYARAKAT",
+     "IdUniversitas": 14,
+     "nilai": 81.95
+    },
+    {
+     "jurusan": "KIMIA",
+     "IdUniversitas": 14,
+     "nilai": 86.87
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 14,
+     "nilai": 81.93
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 14,
+     "nilai": 86.8
+    },
+    {
+     "jurusan": "PENDIDIKAN SENI DRAMA, TARI DAN MUSIK\n(PENDIDIKAN SENI MUSIK)",
+     "IdUniversitas": 14,
+     "nilai": 80.21
+    },
+    {
+     "jurusan": "PENDIDIKAN SENI DRAMA, TARI DAN MUSIK\n(PENDIDIKAN SENI TARI)",
+     "IdUniversitas": 14,
+     "nilai": 80.2
+    },
+    {
+     "jurusan": "PENDIDIKAN EKONOMI (PENDIDIKAN\nADMIN ISTRASI PEKANTORAN)",
+     "IdUniversitas": 14,
+     "nilai": 86.8
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKN IK INFORMATIKA DAN\nKOMPUTER",
+     "IdUniversitas": 14,
+     "nilai": 80.16
+    },
+    {
+     "jurusan": "PENDIDIKAN GURU PENDIDIKAN ANAK USIA DINI\n(PG PAUD)",
+     "IdUniversitas": 14,
+     "nilai": 80.06
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA ARAB",
+     "IdUniversitas": 14,
+     "nilai": 86.82
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA DAN SASTRA INDONESIA",
+     "IdUniversitas": 14,
+     "nilai": 81.34
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA DAN SASTRA JAWA",
+     "IdUniversitas": 14,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA INGGRIS",
+     "IdUniversitas": 14,
+     "nilai": 86.77
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA  JEPANG",
+     "IdUniversitas": 14,
+     "nilai": 86.86
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA MANDARÍN",
+     "IdUniversitas": 14,
+     "nilai": 81.05
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA PRANCIS",
+     "IdUniversitas": 14,
+     "nilai": 81.62
+    },
+    {
+     "jurusan": "PENDIDIKAN BIOLOGI",
+     "IdUniversitas": 14,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "PENDIDIKAN EKONOMI (PENDIDIKAN AKUNTANSI)",
+     "IdUniversitas": 14,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "PENDIDIKAN EKONOMI (PENDIDIKAN KOPERASI)",
+     "IdUniversitas": 14,
+     "nilai": 81.78
+    },
+    {
+     "jurusan": "PENDIDIKAN FISIKA",
+     "IdUniversitas": 14,
+     "nilai": 86.91
+    },
+    {
+     "jurusan": "PENDIDIKAN GEOGRAFI",
+     "IdUniversitas": 14,
+     "nilai": 86.87
+    },
+    {
+     "jurusan": "PENDIDIKAN GURU SEKOLAH DASAR",
+     "IdUniversitas": 14,
+     "nilai": 86.87
+    },
+    {
+     "jurusan": "PENDIDIKAN ILMU PENGETAHUAN  SOSIAL",
+     "IdUniversitas": 14,
+     "nilai": 86.84
+    },
+    {
+     "jurusan": "PENDIDIKAN IPA",
+     "IdUniversitas": 14,
+     "nilai": 80.02
+    },
+    {
+     "jurusan": "PENDIDIKAN JASMANI, KESEHATAN DAN\nREKREASI",
+     "IdUniversitas": 14,
+     "nilai": 86.8
+    },
+    {
+     "jurusan": "PENDIDIKAN KEPELATIHAN OLAHRAGA",
+     "IdUniversitas": 14,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "PENDIDIKAN KESEJAHTERAAN KELUARGA",
+     "IdUniversitas": 14,
+     "nilai": 81.97
+    },
+    {
+     "jurusan": "PENDIDIKAN KIMIA",
+     "IdUniversitas": 14,
+     "nilai": 81.97
+    },
+    {
+     "jurusan": "PENDIDIKAN LUAR SEKOLAH",
+     "IdUniversitas": 14,
+     "nilai": 81.96
+    },
+    {
+     "jurusan": "PENDIDIKAN MATEMATIKA",
+     "IdUniversitas": 14,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "PENDIDIKAN PANCASILA DAN\nKEWARGANEGARAAN",
+     "IdUniversitas": 14,
+     "nilai": 81.95
+    },
+    {
+     "jurusan": "PENDIDIKAN SEJARAH",
+     "IdUniversitas": 14,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "PENDIDIKAN SENI RUPA",
+     "IdUniversitas": 14,
+     "nilai": 80.92
+    },
+    {
+     "jurusan": "PENDIDIKAN SOSIOLOGI DAN ANTROPOLOGI",
+     "IdUniversitas": 14,
+     "nilai": 80.91
+    },
+    {
+     "jurusan": "PENDIDIKAN TATA BOGA",
+     "IdUniversitas": 14,
+     "nilai": 78.91
+    },
+    {
+     "jurusan": "PENDIDIKAN TATA BUSANA",
+     "IdUniversitas": 14,
+     "nilai": 78.9
+    },
+    {
+     "jurusan": "PENDIDIKAN TATA KECANTIKAN",
+     "IdUniversitas": 14,
+     "nilai": 78.9
+    },
+    {
+     "jurusan": "PENDIDIKAN  I eKNIK BANGUNAN",
+     "IdUniversitas": 14,
+     "nilai": 79.37
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKN IK ELEKTRO",
+     "IdUniversitas": 14,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK MESIN",
+     "IdUniversitas": 14,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK OTOMOTIF",
+     "IdUniversitas": 14,
+     "nilai": 86.91
+    },
+    {
+     "jurusan": "PSIKOLOGI",
+     "IdUniversitas": 14,
+     "nilai": 81.89
+    },
+    {
+     "jurusan": "SASTRA INDONESIA",
+     "IdUniversitas": 14,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "SASTRA INGGRIS",
+     "IdUniversitas": 14,
+     "nilai": 81.76
+    },
+    {
+     "jurusan": "SASTRA JAWA",
+     "IdUniversitas": 14,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "SASTRA PRANCIS",
+     "IdUniversitas": 14,
+     "nilai": 80.62
+    },
+    {
+     "jurusan": "SENI RUPA",
+     "IdUniversitas": 14,
+     "nilai": 80.84
+    },
+    {
+     "jurusan": "SISTEM INFORMASI",
+     "IdUniversitas": 14,
+     "nilai": 86.88
+    },
+    {
+     "jurusan": "TEKNIK ARSITEKTUR",
+     "IdUniversitas": 14,
+     "nilai": 81.94
+    },
+    {
+     "jurusan": "TEKNIK ELEK II-‹O",
+     "IdUniversitas": 14,
+     "nilai": 82.49
+    },
+    {
+     "jurusan": "TEKNIK INFORMATIKA",
+     "IdUniversitas": 14,
+     "nilai": 82.48
+    },
+    {
+     "jurusan": "TEKNIK KIMIA",
+     "IdUniversitas": 14,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "TEKNIK MESIN",
+     "IdUniversitas": 14,
+     "nilai": 81.91
+    },
+    {
+     "jurusan": "TEKNIK SIPIL",
+     "IdUniversitas": 14,
+     "nilai": 81.88
+    },
+    {
+     "jurusan": "TEKNOLOGI PENDIDIKAN",
+     "IdUniversitas": 14,
+     "nilai": 86.87
+    },
+    {
+     "jurusan": "ADMINISTRASI NEGARA",
+     "IdUniversitas": 21,
+     "nilai": 85.96
+    },
+    {
+     "jurusan": "AGRIBISNIS",
+     "IdUniversitas": 21,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "AGROTEKNOLOGI",
+     "IdUniversitas": 21,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 21,
+     "nilai": 87.95
+    },
+    {
+     "jurusan": "BAHASA DAN SASTRA INDONESIA",
+     "IdUniversitas": 21,
+     "nilai": 86.87
+    },
+    {
+     "jurusan": "BAHASA DAN SASTRA INGGRIS",
+     "IdUniversitas": 21,
+     "nilai": 85.4
+    },
+    {
+     "jurusan": "BAHASA JEPANG",
+     "IdUniversitas": 21,
+     "nilai": 86.88
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 21,
+     "nilai": 86.97
+    },
+    {
+     "jurusan": "BUDIDAYA PERAIRAN",
+     "IdUniversitas": 21,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "EKONOMI PEMBANGUNAN",
+     "IdUniversitas": 21,
+     "nilai": 86.87
+    },
+    {
+     "jurusan": "FARMASI",
+     "IdUniversitas": 21,
+     "nilai": 87.93
+    },
+    {
+     "jurusan": "FISIKA",
+     "IdUniversitas": 21,
+     "nilai": 86.34
+    },
+    {
+     "jurusan": "HUBUNGAN INTERNASIONAL",
+     "IdUniversitas": 21,
+     "nilai": 86.87
+    },
+    {
+     "jurusan": "ILMU DAN  II-KNOLOGI PANGAN",
+     "IdUniversitas": 21,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "ILMU GIZI",
+     "IdUniversitas": 21,
+     "nilai": 85.9
+    },
+    {
+     "jurusan": "ILMU HUKUM",
+     "IdUniversitas": 21,
+     "nilai": 86.97
+    },
+    {
+     "jurusan": "ILMU KELAUTAN",
+     "IdUniversitas": 21,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "ILMU KOMUNIKASI",
+     "IdUniversitas": 21,
+     "nilai": 84.11
+    },
+    {
+     "jurusan": "ILMU POLITIK",
+     "IdUniversitas": 21,
+     "nilai": 86.86
+    },
+    {
+     "jurusan": "KEPERAWATAN",
+     "IdUniversitas": 21,
+     "nilai": 86.87
+    },
+    {
+     "jurusan": "KESEHATAN MASYARAKAT",
+     "IdUniversitas": 21,
+     "nilai": 87.46
+    },
+    {
+     "jurusan": "KIMIA",
+     "IdUniversitas": 21,
+     "nilai": 86.98
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 21,
+     "nilai": 87.41
+    },
+    {
+     "jurusan": "MANAJEMEN SUMBERDAYA  PERAIRAN",
+     "IdUniversitas": 21,
+     "nilai": 86.91
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 21,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA DAN SASTRA INDONESIA",
+     "IdUniversitas": 21,
+     "nilai": 84.84
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA INGGRIS",
+     "IdUniversitas": 21,
+     "nilai": 86.84
+    },
+    {
+     "jurusan": "PENDIDIKAN DOKTER",
+     "IdUniversitas": 21,
+     "nilai": 88.44
+    },
+    {
+     "jurusan": "PENDIDIKAN DOKTER GIGI",
+     "IdUniversitas": 21,
+     "nilai": 87.9
+    },
+    {
+     "jurusan": "PENDIDIKAN EKONOMI",
+     "IdUniversitas": 21,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "PENDIDIKAN JASMANI KESEHATAN DAN\nREKREASI",
+     "IdUniversitas": 21,
+     "nilai": 84.48
+    },
+    {
+     "jurusan": "PETERNAKAN",
+     "IdUniversitas": 21,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "SOSIOLOGI",
+     "IdUniversitas": 21,
+     "nilai": 86.82
+    },
+    {
+     "jurusan": "TEKNIK ELEKTRO",
+     "IdUniversitas": 21,
+     "nilai": 87.98
+    },
+    {
+     "jurusan": "TEKNIK GEOLOGI",
+     "IdUniversitas": 21,
+     "nilai": 87.43
+    },
+    {
+     "jurusan": "TEKNIK INDUSTRI",
+     "IdUniversitas": 21,
+     "nilai": 88
+    },
+    {
+     "jurusan": "TEKNIK INFORMATIKA",
+     "IdUniversitas": 21,
+     "nilai": 87.97
+    },
+    {
+     "jurusan": "TEKNIK PERTANIAN",
+     "IdUniversitas": 21,
+     "nilai": 86.94
+    },
+    {
+     "jurusan": "TEKNIK SIPIL",
+     "IdUniversitas": 21,
+     "nilai": 87.39
+    },
+    {
+     "jurusan": "AGRIBISNIS",
+     "IdUniversitas": 23,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "AGROTEKNOLOGI  \/ AGROEKOTEKNOLOGI",
+     "IdUniversitas": 23,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 23,
+     "nilai": 86.73
+    },
+    {
+     "jurusan": "ARSITEKTUR",
+     "IdUniversitas": 23,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "BIMBINGAN DAN KONSELING",
+     "IdUniversitas": 23,
+     "nilai": 86.87
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 23,
+     "nilai": 86.99
+    },
+    {
+     "jurusan": "DESAIN INTERIOR",
+     "IdUniversitas": 23,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "DESAIN KOMUNIKASI VISUAL",
+     "IdUniversitas": 23,
+     "nilai": 85.13
+    },
+    {
+     "jurusan": "EKONOMI PEMBANGUNAN",
+     "IdUniversitas": 23,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "FARMASI",
+     "IdUniversitas": 23,
+     "nilai": 89.74
+    },
+    {
+     "jurusan": "FISIKA",
+     "IdUniversitas": 23,
+     "nilai": 85.15
+    },
+    {
+     "jurusan": "HUBUNGAN INTERNASIONAL",
+     "IdUniversitas": 23,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "ILMU ADMINISTRASI NEGARA",
+     "IdUniversitas": 23,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "ILMU DAN  II-KNOLOGI PANGAN",
+     "IdUniversitas": 23,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "ILMU HUKUM",
+     "IdUniversitas": 23,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "ILMU KOMUNIKASI",
+     "IdUniversitas": 23,
+     "nilai": 82.9
+    },
+    {
+     "jurusan": "ILMU LINGKUNGAN",
+     "IdUniversitas": 23,
+     "nilai": 82.48
+    },
+    {
+     "jurusan": "ILMU SEJARAH",
+     "IdUniversitas": 23,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "ILMU TANAH",
+     "IdUniversitas": 23,
+     "nilai": 86.94
+    },
+    {
+     "jurusan": "INFORMATIKA",
+     "IdUniversitas": 23,
+     "nilai": 86.7
+    },
+    {
+     "jurusan": "KEDOKTERAN",
+     "IdUniversitas": 23,
+     "nilai": 87.28
+    },
+    {
+     "jurusan": "KIMIA",
+     "IdUniversitas": 23,
+     "nilai": 84.49
+    },
+    {
+     "jurusan": "KRIYA SENI (DESAIN TEKSTIL)",
+     "IdUniversitas": 23,
+     "nilai": 82.53
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 23,
+     "nilai": 86.2
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 23,
+     "nilai": 87
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA, SASTRA INDONESIA DAN\nDAERAH",
+     "IdUniversitas": 23,
+     "nilai": 86.91
+    },
+    {
+     "jurusan": "PENDIDIKAN GURU PEND ANAK USIA DINI (PG-\nPAUD)",
+     "IdUniversitas": 23,
+     "nilai": 86.97
+    },
+    {
+     "jurusan": "PENDIDIKAN GURU SEKOLAH DASAR (PGSD)\nKEBUMEN",
+     "IdUniversitas": 23,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "PENDIDIKAN GURU SEKOLAH DASAR (PGSD)\nSURAKARTA",
+     "IdUniversitas": 23,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "PENDIDIKAN PANCASILA DAN\nKEWARGANEGARAAN (PPKN)",
+     "IdUniversitas": 23,
+     "nilai": 86.97
+    },
+    {
+     "jurusan": "PENDIDIKAN ADMIN IS IHASI PERKANTORAN",
+     "IdUniversitas": 23,
+     "nilai": 86.94
+    },
+    {
+     "jurusan": "PENDIDIKAN AKUNTANSI",
+     "IdUniversitas": 23,
+     "nilai": 86.97
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA INGGRIS",
+     "IdUniversitas": 23,
+     "nilai": 86.85
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA JAWA",
+     "IdUniversitas": 23,
+     "nilai": 89.92
+    },
+    {
+     "jurusan": "PENDIDIKAN BIOLOGI",
+     "IdUniversitas": 23,
+     "nilai": 86.96
+    },
+    {
+     "jurusan": "PENDIDIKAN EKONOMI",
+     "IdUniversitas": 23,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "PENDIDIKAN FISIKA",
+     "IdUniversitas": 23,
+     "nilai": 85.06
+    },
+    {
+     "jurusan": "PENDIDIKAN GEOGRAFI",
+     "IdUniversitas": 23,
+     "nilai": 86.96
+    },
+    {
+     "jurusan": "PENDIDIKAN IPA",
+     "IdUniversitas": 23,
+     "nilai": 86.96
+    },
+    {
+     "jurusan": "PENDIDIKAN JASMANI, KESEHATAN DAN\nREKREASI",
+     "IdUniversitas": 23,
+     "nilai": 86.94
+    },
+    {
+     "jurusan": "PENDIDIKAN KEPELATIHAN OLAHRAGA",
+     "IdUniversitas": 23,
+     "nilai": 83.25
+    },
+    {
+     "jurusan": "PENDIDIKAN KIMIA",
+     "IdUniversitas": 23,
+     "nilai": 85.05
+    },
+    {
+     "jurusan": "PENDIDIKAN LUAR BIASA (PENDIDIKAN KHUSUS)",
+     "IdUniversitas": 23,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "PENDIDIKAN MATEMATIKA",
+     "IdUniversitas": 23,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "PENDIDIKAN SEJARAH",
+     "IdUniversitas": 23,
+     "nilai": 86.94
+    },
+    {
+     "jurusan": "PENDIDIKAN SENI RUPA",
+     "IdUniversitas": 23,
+     "nilai": 83.21
+    },
+    {
+     "jurusan": "PENDIDIKAN SOSIOLOGI ANTROPOLOGI",
+     "IdUniversitas": 23,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "PENDIDIKAN  II-KNIK BANGUNAN",
+     "IdUniversitas": 23,
+     "nilai": 83.66
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK INFORMATIKA  DAN\nKOMPUTER",
+     "IdUniversitas": 23,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK MESIN",
+     "IdUniversitas": 23,
+     "nilai": 84.07
+    },
+    {
+     "jurusan": "PENGELOLAAN HUTAN",
+     "IdUniversitas": 23,
+     "nilai": 81.28
+    },
+    {
+     "jurusan": "PENYULUHAN  DAN KOMUN IKASI PERTANIAN",
+     "IdUniversitas": 23,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "PERENGANAAN WILAYAH DAN KOTA (PWK)",
+     "IdUniversitas": 23,
+     "nilai": 85.62
+    },
+    {
+     "jurusan": "PETERNAKAN",
+     "IdUniversitas": 23,
+     "nilai": 86.96
+    },
+    {
+     "jurusan": "PSIKOLOGI",
+     "IdUniversitas": 23,
+     "nilai": 86.19
+    },
+    {
+     "jurusan": "SASTRA ARAB",
+     "IdUniversitas": 23,
+     "nilai": 86.94
+    },
+    {
+     "jurusan": "SASTRA DAe&lt;AH UNTUK SAS I &lt;A JAWA",
+     "IdUniversitas": 23,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "SAS IHA INDONESIA",
+     "IdUniversitas": 23,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "SAS II-‹A INGGRIS",
+     "IdUniversitas": 23,
+     "nilai": 84.02
+    },
+    {
+     "jurusan": "SENI RUPA MURNI",
+     "IdUniversitas": 23,
+     "nilai": 82.13
+    },
+    {
+     "jurusan": "SOSIOLOGI",
+     "IdUniversitas": 23,
+     "nilai": 86.86
+    },
+    {
+     "jurusan": "STATISTIKA",
+     "IdUniversitas": 23,
+     "nilai": 86.8
+    },
+    {
+     "jurusan": "TEKNIK ELEK I &lt;O",
+     "IdUniversitas": 23,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "TEKNIK INDUSTRI",
+     "IdUniversitas": 23,
+     "nilai": 86.97
+    },
+    {
+     "jurusan": "TEKNIK KIMIA",
+     "IdUniversitas": 23,
+     "nilai": 87.02
+    },
+    {
+     "jurusan": "TEKNIK MESIN",
+     "IdUniversitas": 23,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "TEKNIK SIPIL",
+     "IdUniversitas": 23,
+     "nilai": 86.94
+    },
+    {
+     "jurusan": "AGRONOMI",
+     "IdUniversitas": 16,
+     "nilai": 88.98
+    },
+    {
+     "jurusan": "AKUAKULTUR",
+     "IdUniversitas": 16,
+     "nilai": 87.05
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 16,
+     "nilai": 89.98
+    },
+    {
+     "jurusan": "ANTROPOLOGI BUDAYA",
+     "IdUniversitas": 16,
+     "nilai": 86.94
+    },
+    {
+     "jurusan": "ARKEOLOGI",
+     "IdUniversitas": 16,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "ARSITEKTUR",
+     "IdUniversitas": 16,
+     "nilai": 89.53
+    },
+    {
+     "jurusan": "BAHASA DAN KEBUDAYAAN  KOREA",
+     "IdUniversitas": 16,
+     "nilai": 86.61
+    },
+    {
+     "jurusan": "BAHASA DAN SASTRA INDONESIA",
+     "IdUniversitas": 16,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 16,
+     "nilai": 88.43
+    },
+    {
+     "jurusan": "EKONOMI PERTANIAN DAN AGRIBISNIS",
+     "IdUniversitas": 16,
+     "nilai": 87.33
+    },
+    {
+     "jurusan": "ELEKTRONIKA DAN INSTRUMENTASI",
+     "IdUniversitas": 16,
+     "nilai": 88.41
+    },
+    {
+     "jurusan": "FARMASI",
+     "IdUniversitas": 16,
+     "nilai": 90
+    },
+    {
+     "jurusan": "FILSAFAT",
+     "IdUniversitas": 16,
+     "nilai": 85.94
+    },
+    {
+     "jurusan": "FISIKA",
+     "IdUniversitas": 16,
+     "nilai": 88.39
+    },
+    {
+     "jurusan": "GEOFISIKA",
+     "IdUniversitas": 16,
+     "nilai": 88.39
+    },
+    {
+     "jurusan": "GEOGRAFI LINGKUNGAN",
+     "IdUniversitas": 16,
+     "nilai": 87.03
+    },
+    {
+     "jurusan": "GIZI KESEHATAN",
+     "IdUniversitas": 16,
+     "nilai": 89.5
+    },
+    {
+     "jurusan": "HIGIENE GIGI",
+     "IdUniversitas": 16,
+     "nilai": 87.46
+    },
+    {
+     "jurusan": "HUKUM",
+     "IdUniversitas": 16,
+     "nilai": 87.97
+    },
+    {
+     "jurusan": "ILMU AKTUARIA",
+     "IdUniversitas": 16,
+     "nilai": 88.18
+    },
+    {
+     "jurusan": "ILMU DAN INDUSTRI PETERNAKAN",
+     "IdUniversitas": 16,
+     "nilai": 86.98
+    },
+    {
+     "jurusan": "ILMU EKONOMI",
+     "IdUniversitas": 16,
+     "nilai": 88.91
+    },
+    {
+     "jurusan": "ILMU HUBUNGAN INTERNASIONAL",
+     "IdUniversitas": 16,
+     "nilai": 87.96
+    },
+    {
+     "jurusan": "ILMU KEPERAWATAN",
+     "IdUniversitas": 16,
+     "nilai": 87.96
+    },
+    {
+     "jurusan": "ILMU KOMPUTER",
+     "IdUniversitas": 16,
+     "nilai": 88.41
+    },
+    {
+     "jurusan": "ILMU KOMUNIKASI",
+     "IdUniversitas": 16,
+     "nilai": 86.14
+    },
+    {
+     "jurusan": "ILMU TANAH",
+     "IdUniversitas": 16,
+     "nilai": 87.3
+    },
+    {
+     "jurusan": "KARTOGRAFI DAN PENGINDERAAN  JAUH",
+     "IdUniversitas": 16,
+     "nilai": 87.31
+    },
+    {
+     "jurusan": "KEDOKTERAN",
+     "IdUniversitas": 16,
+     "nilai": 90.73
+    },
+    {
+     "jurusan": "KEDOKTERAN GIGI",
+     "IdUniversitas": 16,
+     "nilai": 89.96
+    },
+    {
+     "jurusan": "KEDOKTERAN  HEWAN",
+     "IdUniversitas": 16,
+     "nilai": 87.73
+    },
+    {
+     "jurusan": "KEHUTANAN",
+     "IdUniversitas": 16,
+     "nilai": 86.99
+    },
+    {
+     "jurusan": "KIMIA",
+     "IdUniversitas": 16,
+     "nilai": 87.73
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 16,
+     "nilai": 89.45
+    },
+    {
+     "jurusan": "MANAJEMEN DAN KEBIJAKAN PUBLIK",
+     "IdUniversitas": 16,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "MANAJEMEN SUMBERDAYA AKUATIK",
+     "IdUniversitas": 16,
+     "nilai": 87.03
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 16,
+     "nilai": 87.96
+    },
+    {
+     "jurusan": "MIKROBIOLOGI PERTANIAN",
+     "IdUniversitas": 16,
+     "nilai": 87.73
+    },
+    {
+     "jurusan": "PARIWISATA",
+     "IdUniversitas": 16,
+     "nilai": 85.72
+    },
+    {
+     "jurusan": "PEMBANGUNAN  SOSIAL DAN KESEJAHTERAAN",
+     "IdUniversitas": 16,
+     "nilai": 85.82
+    },
+    {
+     "jurusan": "PEMBANGUNAN  WILAYAH",
+     "IdUniversitas": 16,
+     "nilai": 87.41
+    },
+    {
+     "jurusan": "PENYULUHAN  DAN KOMUNIKASI PERTANIAN",
+     "IdUniversitas": 16,
+     "nilai": 87.03
+    },
+    {
+     "jurusan": "PERENCANAAN  WILAYAH DAN KOTA",
+     "IdUniversitas": 16,
+     "nilai": 88.86
+    },
+    {
+     "jurusan": "POLITIK DAN PEMER1NTAHAN",
+     "IdUniversitas": 16,
+     "nilai": 87.45
+    },
+    {
+     "jurusan": "PROTEKSI TANAMAN",
+     "IdUniversitas": 16,
+     "nilai": 87.03
+    },
+    {
+     "jurusan": "PSIKOLOGI",
+     "IdUniversitas": 16,
+     "nilai": 89.45
+    },
+    {
+     "jurusan": "SASTRA ARAB",
+     "IdUniversitas": 16,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "SAS II-‹A INGGRIS",
+     "IdUniversitas": 16,
+     "nilai": 87.27
+    },
+    {
+     "jurusan": "SAS Ii-tA JAWA",
+     "IdUniversitas": 16,
+     "nilai": 87.27
+    },
+    {
+     "jurusan": "SASTRA  JEPANG",
+     "IdUniversitas": 16,
+     "nilai": 86.56
+    },
+    {
+     "jurusan": "SASTRA PRANCIS",
+     "IdUniversitas": 16,
+     "nilai": 86.94
+    },
+    {
+     "jurusan": "SEJARAH",
+     "IdUniversitas": 16,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "SOSIOLOGI",
+     "IdUniversitas": 16,
+     "nilai": 86.91
+    },
+    {
+     "jurusan": "STATISTIKA",
+     "IdUniversitas": 16,
+     "nilai": 88.29
+    },
+    {
+     "jurusan": "TEKNIK ELEKTRO",
+     "IdUniversitas": 16,
+     "nilai": 88.29
+    },
+    {
+     "jurusan": "TEKNIK FISIKA",
+     "IdUniversitas": 16,
+     "nilai": 89.46
+    },
+    {
+     "jurusan": "TEKNIK GEODESI",
+     "IdUniversitas": 16,
+     "nilai": 89.45
+    },
+    {
+     "jurusan": "TEKNIK GEOLOGI",
+     "IdUniversitas": 16,
+     "nilai": 89.47
+    },
+    {
+     "jurusan": "TEKNIK INDUSTRI",
+     "IdUniversitas": 16,
+     "nilai": 90.04
+    },
+    {
+     "jurusan": "TEKNIK KIMIA",
+     "IdUniversitas": 16,
+     "nilai": 90
+    },
+    {
+     "jurusan": "TEKNIK MESIN",
+     "IdUniversitas": 16,
+     "nilai": 89.45
+    },
+    {
+     "jurusan": "TEKNIK NUKLIR",
+     "IdUniversitas": 16,
+     "nilai": 90.01
+    },
+    {
+     "jurusan": "TEKNIK PERTAN IAN",
+     "IdUniversitas": 16,
+     "nilai": 88.87
+    },
+    {
+     "jurusan": "TEKNIK SIPIL",
+     "IdUniversitas": 16,
+     "nilai": 89.43
+    },
+    {
+     "jurusan": "II-KNOLOGI HASIL PERIKANAN",
+     "IdUniversitas": 16,
+     "nilai": 87.04
+    },
+    {
+     "jurusan": "TEKNOLOGI INDUS I ftI PEI-t I ANIAN",
+     "IdUniversitas": 16,
+     "nilai": 87.67
+    },
+    {
+     "jurusan": "TEKNOLOGI INFORMASI",
+     "IdUniversitas": 16,
+     "nilai": 90
+    },
+    {
+     "jurusan": "TEKNOLOGI PANGAN DAN HASIL PERTANIAN",
+     "IdUniversitas": 16,
+     "nilai": 87.67
+    },
+    {
+     "jurusan": "ADMINIS II-‹ASI NEGARA",
+     "IdUniversitas": 17,
+     "nilai": 82.71
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 17,
+     "nilai": 84.68
+    },
+    {
+     "jurusan": "BAHASA DAN SASTRA INGGRIS",
+     "IdUniversitas": 17,
+     "nilai": 82.16
+    },
+    {
+     "jurusan": "BAHASA DAN SASTRA INDONESIA",
+     "IdUniversitas": 17,
+     "nilai": 81.71
+    },
+    {
+     "jurusan": "BIMBINGAN DAN KONSELING",
+     "IdUniversitas": 17,
+     "nilai": 82.16
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 17,
+     "nilai": 86.82
+    },
+    {
+     "jurusan": "FISIKA",
+     "IdUniversitas": 17,
+     "nilai": 86.82
+    },
+    {
+     "jurusan": "ILMU KEOLAHRAGAAN",
+     "IdUniversitas": 17,
+     "nilai": 80.59
+    },
+    {
+     "jurusan": "ILMU KOMUNIKASI",
+     "IdUniversitas": 17,
+     "nilai": 80.88
+    },
+    {
+     "jurusan": "ILMU SEJARAH",
+     "IdUniversitas": 17,
+     "nilai": 86.8
+    },
+    {
+     "jurusan": "KEBIJAKAN PENDIDIKAN",
+     "IdUniversitas": 17,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "KIMIA",
+     "IdUniversitas": 17,
+     "nilai": 86.85
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 17,
+     "nilai": 84.16
+    },
+    {
+     "jurusan": "MANAJEMEN PENDIDIKAN",
+     "IdUniversitas": 17,
+     "nilai": 80.47
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 17,
+     "nilai": 82.65
+    },
+    {
+     "jurusan": "PENDIDIKAN ADMINIS II-‹ASI PERKANTORAN",
+     "IdUniversitas": 17,
+     "nilai": 81.62
+    },
+    {
+     "jurusan": "PENDIDIKAN AKUNTANSI",
+     "IdUniversitas": 17,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA DAN SASTRA INDONESIA",
+     "IdUniversitas": 17,
+     "nilai": 81.59
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA INGGRIS",
+     "IdUniversitas": 17,
+     "nilai": 82.03
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA JAWA",
+     "IdUniversitas": 17,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA JERMAN",
+     "IdUniversitas": 17,
+     "nilai": 80.88
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA PRANCIS",
+     "IdUniversitas": 17,
+     "nilai": 80.88
+    },
+    {
+     "jurusan": "PENDIDIKAN BIOLOGI",
+     "IdUniversitas": 17,
+     "nilai": 83.02
+    },
+    {
+     "jurusan": "PENDIDIKAN EKONOMI",
+     "IdUniversitas": 17,
+     "nilai": 82.04
+    },
+    {
+     "jurusan": "PENDIDIKAN FISIKA",
+     "IdUniversitas": 17,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "PENDIDIKAN GEOGRAFI",
+     "IdUniversitas": 17,
+     "nilai": 80.82
+    },
+    {
+     "jurusan": "PENDIDIKAN GURU PAUD",
+     "IdUniversitas": 17,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "PENDIDIKAN GURU SEKOLAH DASAR",
+     "IdUniversitas": 17,
+     "nilai": 81.27
+    },
+    {
+     "jurusan": "PENDIDIKAN IPA",
+     "IdUniversitas": 17,
+     "nilai": 81.24
+    },
+    {
+     "jurusan": "PENDIDIKAN IPS",
+     "IdUniversitas": 17,
+     "nilai": 81.23
+    },
+    {
+     "jurusan": "PENDIDIKAN JASMANI KESEHATAN DAN\nREKREASI",
+     "IdUniversitas": 17,
+     "nilai": 81.23
+    },
+    {
+     "jurusan": "PENDIDIKAN KEPELATIHAN OLAHRAGA",
+     "IdUniversitas": 17,
+     "nilai": 86.8
+    },
+    {
+     "jurusan": "PENDIDIKAN KEWARGANEGARAAN",
+     "IdUniversitas": 17,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "PENDIDIKAN KIMIA",
+     "IdUniversitas": 17,
+     "nilai": 82.99
+    },
+    {
+     "jurusan": "PENDIDIKAN LUAR BIASA",
+     "IdUniversitas": 17,
+     "nilai": 81.18
+    },
+    {
+     "jurusan": "PENDIDIKAN LUAR SEKOLAH",
+     "IdUniversitas": 17,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "PENDIDIKAN MA I eMATIKA",
+     "IdUniversitas": 17,
+     "nilai": 82.98
+    },
+    {
+     "jurusan": "PENDIDIKAN SEJARAH",
+     "IdUniversitas": 17,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "PENDIDIKAN SENI KERAJINAN",
+     "IdUniversitas": 17,
+     "nilai": 81.18
+    },
+    {
+     "jurusan": "PENDIDIKAN SENI MUSIK",
+     "IdUniversitas": 17,
+     "nilai": 86.82
+    },
+    {
+     "jurusan": "PENDIDIKAN SENI RUPA",
+     "IdUniversitas": 17,
+     "nilai": 86.85
+    },
+    {
+     "jurusan": "PENDIDIKAN SENI TARI",
+     "IdUniversitas": 17,
+     "nilai": 81.16
+    },
+    {
+     "jurusan": "PENDIDIKAN SOSIOLOGI",
+     "IdUniversitas": 17,
+     "nilai": 81.15
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK BOGA",
+     "IdUniversitas": 17,
+     "nilai": 81.14
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK BUSANA",
+     "IdUniversitas": 17,
+     "nilai": 81.13
+    },
+    {
+     "jurusan": "PENDIDIKAN  I I-KNIK ELEK I I-tO",
+     "IdUniversitas": 17,
+     "nilai": 86.82
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK ELEKTRONIKA",
+     "IdUniversitas": 17,
+     "nilai": 86.84
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK INFORMATIKA",
+     "IdUniversitas": 17,
+     "nilai": 82.38
+    },
+    {
+     "jurusan": "PENDIDIKAN  II-KNIK MEKA II-‹ONIKA",
+     "IdUniversitas": 17,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK MESIN",
+     "IdUniversitas": 17,
+     "nilai": 82.02
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK OTOMOTIF",
+     "IdUniversitas": 17,
+     "nilai": 82.02
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK SIPIL DAN PERENCANAAN",
+     "IdUniversitas": 17,
+     "nilai": 82.03
+    },
+    {
+     "jurusan": "PGSD PENDIDIKAN JASMANI",
+     "IdUniversitas": 17,
+     "nilai": 86.88
+    },
+    {
+     "jurusan": "PSIKOLOGI",
+     "IdUniversitas": 17,
+     "nilai": 84.15
+    },
+    {
+     "jurusan": "STATISTIKA",
+     "IdUniversitas": 17,
+     "nilai": 85.67
+    },
+    {
+     "jurusan": "II-KNIK ELEKTRO",
+     "IdUniversitas": 17,
+     "nilai": 86.76
+    },
+    {
+     "jurusan": "TEKNIK MANUFAKTUR",
+     "IdUniversitas": 17,
+     "nilai": 85.56
+    },
+    {
+     "jurusan": "TEKNOLOGI INFORMASI",
+     "IdUniversitas": 17,
+     "nilai": 86.87
+    },
+    {
+     "jurusan": "TEKNOLOGI PENDIDIKAN",
+     "IdUniversitas": 17,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "AGRIBISNIS",
+     "IdUniversitas": 18,
+     "nilai": 83.84
+    },
+    {
+     "jurusan": "AGROTEKNOLOGI",
+     "IdUniversitas": 18,
+     "nilai": 83.84
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 18,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "EKONOMI PEMBANGUNAN",
+     "IdUniversitas": 18,
+     "nilai": 86.8
+    },
+    {
+     "jurusan": "HUBUNGAN MASYARAKAT",
+     "IdUniversitas": 18,
+     "nilai": 83.27
+    },
+    {
+     "jurusan": "ILMU ADMINISTRASI BISNIS",
+     "IdUniversitas": 18,
+     "nilai": 83.79
+    },
+    {
+     "jurusan": "ILMU HUBUNGAN INTERNASIONAL",
+     "IdUniversitas": 18,
+     "nilai": 82.85
+    },
+    {
+     "jurusan": "ILMU KOMUNIKASI",
+     "IdUniversitas": 18,
+     "nilai": 81.04
+    },
+    {
+     "jurusan": "ILMU TANAH",
+     "IdUniversitas": 18,
+     "nilai": 86.77
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 18,
+     "nilai": 84.33
+    },
+    {
+     "jurusan": "METALURGI",
+     "IdUniversitas": 18,
+     "nilai": 86.75
+    },
+    {
+     "jurusan": "SISTEM INFORMASI",
+     "IdUniversitas": 18,
+     "nilai": 86.78
+    },
+    {
+     "jurusan": "TEKNIK GEOFISIKA",
+     "IdUniversitas": 18,
+     "nilai": 86.82
+    },
+    {
+     "jurusan": "TEKNIK GEOLOGI",
+     "IdUniversitas": 18,
+     "nilai": 86.77
+    },
+    {
+     "jurusan": "TEKNIK GEOMATIKA",
+     "IdUniversitas": 18,
+     "nilai": 85.28
+    },
+    {
+     "jurusan": "TEKNIK INDUSTRI",
+     "IdUniversitas": 18,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "TEKNIK INFORMATIKA",
+     "IdUniversitas": 18,
+     "nilai": 86.77
+    },
+    {
+     "jurusan": "TEKNIK KIMIA",
+     "IdUniversitas": 18,
+     "nilai": 84.89
+    },
+    {
+     "jurusan": "TEKNIK LINGKUNGAN",
+     "IdUniversitas": 18,
+     "nilai": 84.31
+    },
+    {
+     "jurusan": "TEKNIK PERMINYAKAN",
+     "IdUniversitas": 18,
+     "nilai": 84.3
+    },
+    {
+     "jurusan": "TEKNIK PEI-‹ I AMBANGAN",
+     "IdUniversitas": 18,
+     "nilai": 84.3
+    },
+    {
+     "jurusan": "ARSITEKTUR",
+     "IdUniversitas": 31,
+     "nilai": 89
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 31,
+     "nilai": 89
+    },
+    {
+     "jurusan": "DESAIN INTERIOR",
+     "IdUniversitas": 31,
+     "nilai": 97.95
+    },
+    {
+     "jurusan": "DESAIN KOMUNIKASI VISUAL",
+     "IdUniversitas": 31,
+     "nilai": 86.49
+    },
+    {
+     "jurusan": "DESAIN PRODUK INDUS II-‹I",
+     "IdUniversitas": 31,
+     "nilai": 87.87
+    },
+    {
+     "jurusan": "FISIKA",
+     "IdUniversitas": 31,
+     "nilai": 87.87
+    },
+    {
+     "jurusan": "INFORMATIKA",
+     "IdUniversitas": 31,
+     "nilai": 89.5
+    },
+    {
+     "jurusan": "KIMIA",
+     "IdUniversitas": 31,
+     "nilai": 87.21
+    },
+    {
+     "jurusan": "MANAJEMEN BISNIS",
+     "IdUniversitas": 31,
+     "nilai": 88.97
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 31,
+     "nilai": 87.42
+    },
+    {
+     "jurusan": "PERENCANAAN  WILAYAH DAN KOTA",
+     "IdUniversitas": 31,
+     "nilai": 88.36
+    },
+    {
+     "jurusan": "SAINS AKTUARIA",
+     "IdUniversitas": 31,
+     "nilai": 86.51
+    },
+    {
+     "jurusan": "SISTEM INFORMASI",
+     "IdUniversitas": 31,
+     "nilai": 88.98
+    },
+    {
+     "jurusan": "STATISTIKA",
+     "IdUniversitas": 31,
+     "nilai": 87.77
+    },
+    {
+     "jurusan": "STUDI PEMBANGUNAN",
+     "IdUniversitas": 31,
+     "nilai": 85.31
+    },
+    {
+     "jurusan": "TEKNIK SISTEM PERKAPALAN (GLR GANDA  ITS-\nJERMAN)",
+     "IdUniversitas": 31,
+     "nilai": 89.47
+    },
+    {
+     "jurusan": "TEKNIK BIOMEDIK",
+     "IdUniversitas": 31,
+     "nilai": 88.95
+    },
+    {
+     "jurusan": "TEKNIK ELEKTRO",
+     "IdUniversitas": 31,
+     "nilai": 89.51
+    },
+    {
+     "jurusan": "TEKNIK FISIKA",
+     "IdUniversitas": 31,
+     "nilai": 88.95
+    },
+    {
+     "jurusan": "TEKNIK GEOFISIKA",
+     "IdUniversitas": 31,
+     "nilai": 88.96
+    },
+    {
+     "jurusan": "TEKNIK GEOMATIKA",
+     "IdUniversitas": 31,
+     "nilai": 88.94
+    },
+    {
+     "jurusan": "TEKNIK INDUSTRI",
+     "IdUniversitas": 31,
+     "nilai": 89.51
+    },
+    {
+     "jurusan": "TEKNIK KELAUTAN",
+     "IdUniversitas": 31,
+     "nilai": 88.94
+    },
+    {
+     "jurusan": "TEKNIK KIMIA",
+     "IdUniversitas": 31,
+     "nilai": 89.49
+    },
+    {
+     "jurusan": "TEKNIK KOMPUTER",
+     "IdUniversitas": 31,
+     "nilai": 89.51
+    },
+    {
+     "jurusan": "TEKNIK LINGKUNGAN",
+     "IdUniversitas": 31,
+     "nilai": 88.93
+    },
+    {
+     "jurusan": "TEKNIK MATERIAL",
+     "IdUniversitas": 31,
+     "nilai": 89.48
+    },
+    {
+     "jurusan": "TEKNIK MESIN",
+     "IdUniversitas": 31,
+     "nilai": 88.94
+    },
+    {
+     "jurusan": "TEKNIK PERKAPALAN",
+     "IdUniversitas": 31,
+     "nilai": 88.93
+    },
+    {
+     "jurusan": "TEKNIK SIPIL",
+     "IdUniversitas": 31,
+     "nilai": 88.91
+    },
+    {
+     "jurusan": "TEKNIK SISTEM PERKAPALAN",
+     "IdUniversitas": 31,
+     "nilai": 88.92
+    },
+    {
+     "jurusan": "TEKNIK TRANSPORTASI LAUT",
+     "IdUniversitas": 31,
+     "nilai": 88.35
+    },
+    {
+     "jurusan": "TEKNOLOGI INFORMASI",
+     "IdUniversitas": 31,
+     "nilai": 88.35
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 30,
+     "nilai": 89.71
+    },
+    {
+     "jurusan": "AKUNTANSI (PSDKU BANYUWANGI)",
+     "IdUniversitas": 30,
+     "nilai": 89.67
+    },
+    {
+     "jurusan": "ANTROPOLOGI  SOSIAL",
+     "IdUniversitas": 30,
+     "nilai": 85.93
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 30,
+     "nilai": 88.15
+    },
+    {
+     "jurusan": "BUDIDAYA PERAIRAN",
+     "IdUniversitas": 30,
+     "nilai": 86.34
+    },
+    {
+     "jurusan": "BUDIDAYA PERAIRAN (PSDKU BANYUWANGI)",
+     "IdUniversitas": 30,
+     "nilai": 86.34
+    },
+    {
+     "jurusan": "EKONOMI  ISLAM",
+     "IdUniversitas": 30,
+     "nilai": 88.11
+    },
+    {
+     "jurusan": "EKONOMI PEMBANGUNAN",
+     "IdUniversitas": 30,
+     "nilai": 88.11
+    },
+    {
+     "jurusan": "FISIKA",
+     "IdUniversitas": 30,
+     "nilai": 88.11
+    },
+    {
+     "jurusan": "ILMU ADMINISTRASI NEGARA",
+     "IdUniversitas": 30,
+     "nilai": 87.71
+    },
+    {
+     "jurusan": "ILMU DAN TEKNOLOGI LINGKUNGAN",
+     "IdUniversitas": 30,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "ILMU GIZI",
+     "IdUniversitas": 30,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "ILMU HUBUNGAN INTERNASIONAL",
+     "IdUniversitas": 30,
+     "nilai": 87.71
+    },
+    {
+     "jurusan": "ILMU HUKUM",
+     "IdUniversitas": 30,
+     "nilai": 87.69
+    },
+    {
+     "jurusan": "ILMU INFORMASI DAN PERPUSTAKAAN",
+     "IdUniversitas": 30,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "ILMU KOMUNIKASI",
+     "IdUniversitas": 30,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "ILMU POLITIK",
+     "IdUniversitas": 30,
+     "nilai": 87.17
+    },
+    {
+     "jurusan": "ILMU SEJARAH",
+     "IdUniversitas": 30,
+     "nilai": 85.55
+    },
+    {
+     "jurusan": "KEDOKTERAN HEWAN",
+     "IdUniversitas": 30,
+     "nilai": 87.44
+    },
+    {
+     "jurusan": "KESEHATAN MASYARAKAT",
+     "IdUniversitas": 30,
+     "nilai": 89.22
+    },
+    {
+     "jurusan": "KESEHATAN MASYARAKAT  (PSDKU\nBANYUWANGI)",
+     "IdUniversitas": 30,
+     "nilai": 89.2
+    },
+    {
+     "jurusan": "KIMIA",
+     "IdUniversitas": 30,
+     "nilai": 87.44
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 30,
+     "nilai": 89.2
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 30,
+     "nilai": 87.67
+    },
+    {
+     "jurusan": "PENDIDIKAN APOTEKER",
+     "IdUniversitas": 30,
+     "nilai": 89.79
+    },
+    {
+     "jurusan": "PENDIDIKAN BIDAN",
+     "IdUniversitas": 30,
+     "nilai": 87.87
+    },
+    {
+     "jurusan": "PENDIDIKAN DOKTER",
+     "IdUniversitas": 30,
+     "nilai": 90.79
+    },
+    {
+     "jurusan": "PENDIDIKAN DOKTER GIGI",
+     "IdUniversitas": 30,
+     "nilai": 89.68
+    },
+    {
+     "jurusan": "PENDIDIKAN DOKTER HEWAN (PSDKU BANYUWANGI)",
+     "IdUniversitas": 30,
+     "nilai": 87.43
+    },
+    {
+     "jurusan": "PENDIDIKAN NERS",
+     "IdUniversitas": 30,
+     "nilai": 87.69
+    },
+    {
+     "jurusan": "PSIKOLOGI",
+     "IdUniversitas": 30,
+     "nilai": 89.16
+    },
+    {
+     "jurusan": "SAS II-tA INDONESIA",
+     "IdUniversitas": 30,
+     "nilai": 86.57
+    },
+    {
+     "jurusan": "SAS IHA INGGRIS",
+     "IdUniversitas": 30,
+     "nilai": 86.94
+    },
+    {
+     "jurusan": "SAS II-‹A JEPANG",
+     "IdUniversitas": 30,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "SISTEM INFORMASI",
+     "IdUniversitas": 30,
+     "nilai": 89.21
+    },
+    {
+     "jurusan": "SOSIOLOGI",
+     "IdUniversitas": 30,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "STATISTIKA",
+     "IdUniversitas": 30,
+     "nilai": 88.02
+    },
+    {
+     "jurusan": "TEKNIK INDUSTRI",
+     "IdUniversitas": 30,
+     "nilai": 89.22
+    },
+    {
+     "jurusan": "TEKNIK ELEKTRO",
+     "IdUniversitas": 30,
+     "nilai": 87.44
+    },
+    {
+     "jurusan": "REKAYASA MANOTEKNOLOGI",
+     "IdUniversitas": 30,
+     "nilai": 86.34
+    },
+    {
+     "jurusan": "TEKNIK ROBOTIKA DAN KECERDASAN BUATAN",
+     "IdUniversitas": 30,
+     "nilai": 87
+    },
+    {
+     "jurusan": "TEKNOLOGI SAINS DATA",
+     "IdUniversitas": 30,
+     "nilai": 88.01
+    },
+    {
+     "jurusan": "TEKNOBIOMEDIK",
+     "IdUniversitas": 30,
+     "nilai": 88.01
+    },
+    {
+     "jurusan": "TEKNOLOGI INDUS II-t I HASIL PERIKANAN",
+     "IdUniversitas": 30,
+     "nilai": 87
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 32,
+     "nilai": 84.13
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 32,
+     "nilai": 86.78
+    },
+    {
+     "jurusan": "DESAIN KOMUN IKASI VISUAL",
+     "IdUniversitas": 32,
+     "nilai": 86.84
+    },
+    {
+     "jurusan": "EKONOMI",
+     "IdUniversitas": 32,
+     "nilai": 83.1
+    },
+    {
+     "jurusan": "EKONOMI ISLAM",
+     "IdUniversitas": 32,
+     "nilai": 82.54
+    },
+    {
+     "jurusan": "FISIKA",
+     "IdUniversitas": 32,
+     "nilai": 82.56
+    },
+    {
+     "jurusan": "GIZI",
+     "IdUniversitas": 32,
+     "nilai": 83.66
+    },
+    {
+     "jurusan": "ILMU ADMINIS II-tASl NEGARA",
+     "IdUniversitas": 32,
+     "nilai": 82.12
+    },
+    {
+     "jurusan": "ILMU HUKUM",
+     "IdUniversitas": 32,
+     "nilai": 82.12
+    },
+    {
+     "jurusan": "ILMU KEOLAHRAGAAN",
+     "IdUniversitas": 32,
+     "nilai": 80.06
+    },
+    {
+     "jurusan": "ILMU KOMUNIKASI",
+     "IdUniversitas": 32,
+     "nilai": 80.31
+    },
+    {
+     "jurusan": "KIMIA",
+     "IdUniversitas": 32,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "KURIKULUM DAN TEKNOLOGI PENDIDIKAN",
+     "IdUniversitas": 32,
+     "nilai": 80.95
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 32,
+     "nilai": 83.62
+    },
+    {
+     "jurusan": "MANAJEMEN PENDIDIKAN",
+     "IdUniversitas": 32,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 32,
+     "nilai": 80.34
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA DAERAH (JAWA)",
+     "IdUniversitas": 32,
+     "nilai": 80.34
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA DAN SASTRA INDONESIA",
+     "IdUniversitas": 32,
+     "nilai": 86.75
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA INGGRIS",
+     "IdUniversitas": 32,
+     "nilai": 81.45
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA JEPANG",
+     "IdUniversitas": 32,
+     "nilai": 80.77
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA JERMAN",
+     "IdUniversitas": 32,
+     "nilai": 80.36
+    },
+    {
+     "jurusan": "PENDIDIKAN EKONOMI",
+     "IdUniversitas": 32,
+     "nilai": 86.8
+    },
+    {
+     "jurusan": "PENDIDIKAN GEOGRAFI",
+     "IdUniversitas": 32,
+     "nilai": 86.85
+    },
+    {
+     "jurusan": "PENDIDIKAN SENDRATASIK",
+     "IdUniversitas": 32,
+     "nilai": 80.89
+    },
+    {
+     "jurusan": "PENDIDIKAN SENI RUPA",
+     "IdUniversitas": 32,
+     "nilai": 80.89
+    },
+    {
+     "jurusan": "PENDIDIKAN ADMINIS I  TASI PERKANTORAN",
+     "IdUniversitas": 32,
+     "nilai": 81.57
+    },
+    {
+     "jurusan": "PENDIDIKAN AKUNTANSI",
+     "IdUniversitas": 32,
+     "nilai": 86.82
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA MANDARÍN",
+     "IdUniversitas": 32,
+     "nilai": 80.77
+    },
+    {
+     "jurusan": "PENDIDIKAN BIOLOGI",
+     "IdUniversitas": 32,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "PENDIDIKAN FISIKA",
+     "IdUniversitas": 32,
+     "nilai": 86.88
+    },
+    {
+     "jurusan": "PENDIDIKAN ILMU PENGETAHUAN  SOSIAL",
+     "IdUniversitas": 32,
+     "nilai": 82.46
+    },
+    {
+     "jurusan": "PENDIDIKAN JASMANI, KESEHATAN DAN\nREKREASI",
+     "IdUniversitas": 32,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "PENDIDIKAN KEPELATIHAN OLAHRAGA",
+     "IdUniversitas": 32,
+     "nilai": 81.82
+    },
+    {
+     "jurusan": "PENDIDIKAN KIMIA",
+     "IdUniversitas": 32,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "PENDIDIKAN MATEMATIKA",
+     "IdUniversitas": 32,
+     "nilai": 86.77
+    },
+    {
+     "jurusan": "PENDIDIKAN PANCASILA DAN\nKEWARGANEGARAAN",
+     "IdUniversitas": 32,
+     "nilai": 86.84
+    },
+    {
+     "jurusan": "PENDIDIKAN SAINS",
+     "IdUniversitas": 32,
+     "nilai": 86.77
+    },
+    {
+     "jurusan": "PENDIDIKAN SEJARAH",
+     "IdUniversitas": 32,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "PENDIDIKAN TATA BOGA",
+     "IdUniversitas": 32,
+     "nilai": 80.76
+    },
+    {
+     "jurusan": "PENDIDIKAN TATA BUSANA",
+     "IdUniversitas": 32,
+     "nilai": 80.76
+    },
+    {
+     "jurusan": "PENDIDIKAN TATA NIAGA",
+     "IdUniversitas": 32,
+     "nilai": 86.84
+    },
+    {
+     "jurusan": "PENDIDIKAN TATA RIAS",
+     "IdUniversitas": 32,
+     "nilai": 80.74
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK BANGUNAN",
+     "IdUniversitas": 32,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK ELEKTRO",
+     "IdUniversitas": 32,
+     "nilai": 86.77
+    },
+    {
+     "jurusan": "PENDIDIKAN  II-KNIK MESIN",
+     "IdUniversitas": 32,
+     "nilai": 86.76
+    },
+    {
+     "jurusan": "PENDIDIKAN LUAR BIASA",
+     "IdUniversitas": 32,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "PENDIDIKAN LUAR SEKOLAH",
+     "IdUniversitas": 32,
+     "nilai": 80.65
+    },
+    {
+     "jurusan": "PENDIDIKAN  II-KNOLOGI INFORMASI",
+     "IdUniversitas": 32,
+     "nilai": 86.77
+    },
+    {
+     "jurusan": "PG-PAUD",
+     "IdUniversitas": 32,
+     "nilai": 85.63
+    },
+    {
+     "jurusan": "PGSD",
+     "IdUniversitas": 32,
+     "nilai": 86.77
+    },
+    {
+     "jurusan": "PSIKOLOGI",
+     "IdUniversitas": 32,
+     "nilai": 86.76
+    },
+    {
+     "jurusan": "PSIKOLOGI PENDIDIKAN DAN BIMBINGAN",
+     "IdUniversitas": 32,
+     "nilai": 80.62
+    },
+    {
+     "jurusan": "SASTRA INDONESIA",
+     "IdUniversitas": 32,
+     "nilai": 86.76
+    },
+    {
+     "jurusan": "SASTRA INGGRIS",
+     "IdUniversitas": 32,
+     "nilai": 81.44
+    },
+    {
+     "jurusan": "SAS II-‹A JERMAN",
+     "IdUniversitas": 32,
+     "nilai": 85.86
+    },
+    {
+     "jurusan": "SENI MUSIK",
+     "IdUniversitas": 32,
+     "nilai": 80.55
+    },
+    {
+     "jurusan": "SENI RUPA MURNI",
+     "IdUniversitas": 32,
+     "nilai": 86.87
+    },
+    {
+     "jurusan": "SISTEM INFORMASI",
+     "IdUniversitas": 32,
+     "nilai": 83.65
+    },
+    {
+     "jurusan": "SOSIOLOGI",
+     "IdUniversitas": 32,
+     "nilai": 86.74
+    },
+    {
+     "jurusan": "TEKNIK ELEK II-tO",
+     "IdUniversitas": 32,
+     "nilai": 86.74
+    },
+    {
+     "jurusan": "TEKNIK INFORMATIKA",
+     "IdUniversitas": 32,
+     "nilai": 84.18
+    },
+    {
+     "jurusan": "TEKNIK MESIN",
+     "IdUniversitas": 32,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "TEKNIK SIPIL",
+     "IdUniversitas": 32,
+     "nilai": 83.57
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 34,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "ARSITEKTUR",
+     "IdUniversitas": 34,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 34,
+     "nilai": 84.78
+    },
+    {
+     "jurusan": "HUBUNGAN INTERNASIONAL",
+     "IdUniversitas": 34,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "HUKUM",
+     "IdUniversitas": 34,
+     "nilai": 80.25
+    },
+    {
+     "jurusan": "ILMU EKONOMI",
+     "IdUniversitas": 34,
+     "nilai": 84.77
+    },
+    {
+     "jurusan": "ILMU KELAUTAN",
+     "IdUniversitas": 34,
+     "nilai": 84.83
+    },
+    {
+     "jurusan": "ILMU KOMUNIKASI",
+     "IdUniversitas": 34,
+     "nilai": 86.75
+    },
+    {
+     "jurusan": "ILMU POLITIK",
+     "IdUniversitas": 34,
+     "nilai": 81.11
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 34,
+     "nilai": 81.11
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 34,
+     "nilai": 85.83
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA INGGRIS",
+     "IdUniversitas": 34,
+     "nilai": 85.71
+    },
+    {
+     "jurusan": "PENDIDIKAN ILMU PENGETAHUAN  ALAM",
+     "IdUniversitas": 34,
+     "nilai": 80.21
+    },
+    {
+     "jurusan": "PENDIDIKAN MATEMATIKA",
+     "IdUniversitas": 34,
+     "nilai": 85.77
+    },
+    {
+     "jurusan": "PSIKOLOGI",
+     "IdUniversitas": 34,
+     "nilai": 81.11
+    },
+    {
+     "jurusan": "SASTRA INDONESIA",
+     "IdUniversitas": 34,
+     "nilai": 80.17
+    },
+    {
+     "jurusan": "SAS IJA INGGRIS",
+     "IdUniversitas": 34,
+     "nilai": 80.94
+    },
+    {
+     "jurusan": "SISTEM INFORMASI",
+     "IdUniversitas": 34,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "SOSIOLOGI",
+     "IdUniversitas": 34,
+     "nilai": 86.7
+    },
+    {
+     "jurusan": "TEKNIK LINGKUNGAN",
+     "IdUniversitas": 34,
+     "nilai": 86.78
+    },
+    {
+     "jurusan": "ADMIN IS II-tASI BISNIS\/NIAGA",
+     "IdUniversitas": 33,
+     "nilai": 84.04
+    },
+    {
+     "jurusan": "ADMIN IS IHASI NEGARA",
+     "IdUniversitas": 33,
+     "nilai": 86.74
+    },
+    {
+     "jurusan": "AGRIBISNIS",
+     "IdUniversitas": 33,
+     "nilai": 86.72
+    },
+    {
+     "jurusan": "AGROTEKNOLOGI",
+     "IdUniversitas": 33,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 33,
+     "nilai": 86.75
+    },
+    {
+     "jurusan": "ARSITEKTUR",
+     "IdUniversitas": 33,
+     "nilai": 84.62
+    },
+    {
+     "jurusan": "DESAIN KOMUNIKASI VISUAL",
+     "IdUniversitas": 33,
+     "nilai": 86.72
+    },
+    {
+     "jurusan": "EKONOMI PEMBANGUNAN",
+     "IdUniversitas": 33,
+     "nilai": 84.05
+    },
+    {
+     "jurusan": "ILMU HUBUNGAN INTERNASIONAL",
+     "IdUniversitas": 33,
+     "nilai": 83.08
+    },
+    {
+     "jurusan": "ILMU HUKUM",
+     "IdUniversitas": 33,
+     "nilai": 86.74
+    },
+    {
+     "jurusan": "ILMU KOMUNIKASI",
+     "IdUniversitas": 33,
+     "nilai": 81.26
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 33,
+     "nilai": 86.74
+    },
+    {
+     "jurusan": "SISTEM INFORMASI",
+     "IdUniversitas": 33,
+     "nilai": 84.6
+    },
+    {
+     "jurusan": "TEKNIK INDUSTRI",
+     "IdUniversitas": 33,
+     "nilai": 86.82
+    },
+    {
+     "jurusan": "I f-KNIK INFORMATIKA",
+     "IdUniversitas": 33,
+     "nilai": 86.76
+    },
+    {
+     "jurusan": "TEKNIK KIMIA",
+     "IdUniversitas": 33,
+     "nilai": 86.86
+    },
+    {
+     "jurusan": "TEKNIK LINGKUNGAN",
+     "IdUniversitas": 33,
+     "nilai": 84.56
+    },
+    {
+     "jurusan": "TEKNIK SIPIL",
+     "IdUniversitas": 33,
+     "nilai": 84.53
+    },
+    {
+     "jurusan": "TEKNOLOGI PANGAhI",
+     "IdUniversitas": 33,
+     "nilai": 82.78
+    },
+    {
+     "jurusan": "ADMINISTRASI PENDIDIKAN",
+     "IdUniversitas": 27,
+     "nilai": 87.93
+    },
+    {
+     "jurusan": "ADMINISTRASI PERPAJAKAN",
+     "IdUniversitas": 27,
+     "nilai": 87.93
+    },
+    {
+     "jurusan": "AGRIBISNIS",
+     "IdUniversitas": 27,
+     "nilai": 87.98
+    },
+    {
+     "jurusan": "AGRIBISNIS (PSDKU KEDIRI)",
+     "IdUniversitas": 27,
+     "nilai": 80.91
+    },
+    {
+     "jurusan": "AGROBISN IS PERIKANAN",
+     "IdUniversitas": 27,
+     "nilai": 86.71
+    },
+    {
+     "jurusan": "AGROEKO II-KNOLOGI",
+     "IdUniversitas": 27,
+     "nilai": 87.95
+    },
+    {
+     "jurusan": "AGROEKOTEKNOLOGI (PSDKU KEDIRI)",
+     "IdUniversitas": 27,
+     "nilai": 80.31
+    },
+    {
+     "jurusan": "AKUAKULTUR (PSDKU KEDIRI)",
+     "IdUniversitas": 27,
+     "nilai": 80.12
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 27,
+     "nilai": 88.98
+    },
+    {
+     "jurusan": "ANTROPOLOGI SOSIAL",
+     "IdUniversitas": 27,
+     "nilai": 86.91
+    },
+    {
+     "jurusan": "ARSITEKTUR",
+     "IdUniversitas": 27,
+     "nilai": 88.51
+    },
+    {
+     "jurusan": "BAHASA DAN SASTRA PERANCIS",
+     "IdUniversitas": 27,
+     "nilai": 85.59
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 27,
+     "nilai": 87.4
+    },
+    {
+     "jurusan": "BIOTEKNOLOGI",
+     "IdUniversitas": 27,
+     "nilai": 87.41
+    },
+    {
+     "jurusan": "BUDIDAYA PERAIRAN",
+     "IdUniversitas": 27,
+     "nilai": 85.61
+    },
+    {
+     "jurusan": "EKONOMI ISLAM",
+     "IdUniversitas": 27,
+     "nilai": 87.39
+    },
+    {
+     "jurusan": "EKONOMI PEMBANGUNAN",
+     "IdUniversitas": 27,
+     "nilai": 87.91
+    },
+    {
+     "jurusan": "EKONOMI, KEUANGAN DAN PERBANKAN",
+     "IdUniversitas": 27,
+     "nilai": 86.96
+    },
+    {
+     "jurusan": "FARMASI",
+     "IdUniversitas": 27,
+     "nilai": 87.98
+    },
+    {
+     "jurusan": "FISIKA",
+     "IdUniversitas": 27,
+     "nilai": 87.37
+    },
+    {
+     "jurusan": "GIZI KESEHATAN \/ ILMU GIZI",
+     "IdUniversitas": 27,
+     "nilai": 88.49
+    },
+    {
+     "jurusan": "HUBUNGAN INTERNASIONAL",
+     "IdUniversitas": 27,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "ILMU ADMINISTRASI BISNIS",
+     "IdUniversitas": 27,
+     "nilai": 87.91
+    },
+    {
+     "jurusan": "ILMU AOMINIS IMASI PUBLIK",
+     "IdUniversitas": 27,
+     "nilai": 86.99
+    },
+    {
+     "jurusan": "ILMU DAN TEKNOLOGI PANGAN",
+     "IdUniversitas": 27,
+     "nilai": 86.91
+    },
+    {
+     "jurusan": "ILMU HUKUM",
+     "IdUniversitas": 27,
+     "nilai": 87.03
+    },
+    {
+     "jurusan": "ILMU KELAUTAN",
+     "IdUniversitas": 27,
+     "nilai": 85.96
+    },
+    {
+     "jurusan": "ILMU KEPERAWATAN",
+     "IdUniversitas": 27,
+     "nilai": 86.96
+    },
+    {
+     "jurusan": "ILMU KOMUNIKASI",
+     "IdUniversitas": 27,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "ILMU PEMERINTAHAN",
+     "IdUniversitas": 27,
+     "nilai": 86.96
+    },
+    {
+     "jurusan": "ILMU PERPUSTAKAAN",
+     "IdUniversitas": 27,
+     "nilai": 86.88
+    },
+    {
+     "jurusan": "ILMU POLITIK",
+     "IdUniversitas": 27,
+     "nilai": 86.98
+    },
+    {
+     "jurusan": "INSTRUMENTASI",
+     "IdUniversitas": 27,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "KEBIDANAN",
+     "IdUniversitas": 27,
+     "nilai": 86.97
+    },
+    {
+     "jurusan": "Ke I EKNIKAN PErt IANIAN",
+     "IdUniversitas": 27,
+     "nilai": 85.86
+    },
+    {
+     "jurusan": "KEW IRAUSAHAAN",
+     "IdUniversitas": 27,
+     "nilai": 89.90
+    },
+    {
+     "jurusan": "KIMIA",
+     "IdUniversitas": 27,
+     "nilai": 86.72
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 27,
+     "nilai": 88.45
+    },
+    {
+     "jurusan": "MANAJEMEN SUMBERDAYA  PERAIRAN",
+     "IdUniversitas": 27,
+     "nilai": 85.93
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 27,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "PARIW ISATA",
+     "IdUniversitas": 27,
+     "nilai": 84.71
+    },
+    {
+     "jurusan": "PEMANFAATAN  SUMBERDAYA PERIKANAN",
+     "IdUniversitas": 27,
+     "nilai": 84.71
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA DAN SASTRA INDONESIA",
+     "IdUniversitas": 27,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA DAN SASTRA INGGRIS",
+     "IdUniversitas": 27,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA DAN SASTRA JEPANG",
+     "IdUniversitas": 27,
+     "nilai": 87
+    },
+    {
+     "jurusan": "PENDIDIKAN DOKTER",
+     "IdUniversitas": 27,
+     "nilai": 89.5
+    },
+    {
+     "jurusan": "PENDIDIKAN DOKTER GIGI",
+     "IdUniversitas": 27,
+     "nilai": 88.94
+    },
+    {
+     "jurusan": "PENDIDIKAN DOKTER HEWAN",
+     "IdUniversitas": 27,
+     "nilai": 88.94
+    },
+    {
+     "jurusan": "PENDIDIKAN  I I-KNOLOGI INFORMASI",
+     "IdUniversitas": 27,
+     "nilai": 86.97
+    },
+    {
+     "jurusan": "PERENCANAAN  WILAYAH DAN KOTA",
+     "IdUniversitas": 27,
+     "nilai": 87.85
+    },
+    {
+     "jurusan": "PETERNAKAN",
+     "IdUniversitas": 27,
+     "nilai": 85.1
+    },
+    {
+     "jurusan": "PI- I ERNAKAN (PSDKU KEDIRI)",
+     "IdUniversitas": 27,
+     "nilai": 80.34
+    },
+    {
+     "jurusan": "PSIKOLOGI",
+     "IdUniversitas": 27,
+     "nilai": 88.42
+    },
+    {
+     "jurusan": "SASTRA CINA",
+     "IdUniversitas": 27,
+     "nilai": 85.55
+    },
+    {
+     "jurusan": "SASTRA INGGRIS",
+     "IdUniversitas": 27,
+     "nilai": 86.88
+    },
+    {
+     "jurusan": "SAS II-‹A JEPANG",
+     "IdUniversitas": 27,
+     "nilai": 86.97
+    },
+    {
+     "jurusan": "SENI RUPA MURNI",
+     "IdUniversitas": 27,
+     "nilai": 84.37
+    },
+    {
+     "jurusan": "SISTEM INFORMASI",
+     "IdUniversitas": 27,
+     "nilai": 88.49
+    },
+    {
+     "jurusan": "SOSIAL EKONOMI PERIKANAN (PSDKU KEDIRI)",
+     "IdUniversitas": 27,
+     "nilai": 80.24
+    },
+    {
+     "jurusan": "SOSIOLOGI",
+     "IdUniversitas": 27,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "STATISTIKA",
+     "IdUniversitas": 27,
+     "nilai": 87.28
+    },
+    {
+     "jurusan": "TEKNIK ELEKTRO",
+     "IdUniversitas": 27,
+     "nilai": 87.28
+
+    },
+    {
+     "jurusan": "TEKNIK GEOFISIKA",
+     "IdUniversitas": 27,
+     "nilai": 88.45
+    },
+    {
+     "jurusan": "TEKNIK INDUSTRI",
+     "IdUniversitas": 27,
+     "nilai": 89.03
+    },
+    {
+     "jurusan": "TEKNIK INFORMATIKA",
+     "IdUniversitas": 27,
+     "nilai": 89.01
+    },
+    {
+     "jurusan": "TEKNIK KIMIA",
+     "IdUniversitas": 27,
+     "nilai": 89.03
+    },
+    {
+     "jurusan": "TEKNIK KOMPUTER",
+     "IdUniversitas": 27,
+     "nilai": 88.99
+    },
+    {
+     "jurusan": "TEKNIK LINGKUNGAN",
+     "IdUniversitas": 27,
+     "nilai": 88.44
+    },
+    {
+     "jurusan": "TEKNIK MESIN",
+     "IdUniversitas": 27,
+     "nilai": 88.43
+    },
+    {
+     "jurusan": "TEKNIK PENGAIRAN",
+     "IdUniversitas": 27,
+     "nilai": 87.87
+    },
+    {
+     "jurusan": "TEKNIK SIPIL",
+     "IdUniversitas": 27,
+     "nilai": 88.42
+    },
+    {
+     "jurusan": "TEKNOLOGI BIOPROSES",
+     "IdUniversitas": 27,
+     "nilai": 86.97
+    },
+    {
+     "jurusan": "TEKNOLOGI HASIL PERIKANAN",
+     "IdUniversitas": 27,
+     "nilai": 85.85
+    },
+    {
+     "jurusan": "TEKNOLOGI INDUSTRI PERTANIAN",
+     "IdUniversitas": 27,
+     "nilai": 87.02
+    },
+    {
+     "jurusan": "TEKNOLOGI INFORMASI",
+     "IdUniversitas": 27,
+     "nilai": 88.98
+    },
+    {
+     "jurusan": "ADMINISTRASI PENDIDIKAN",
+     "IdUniversitas": 28,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 28,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "BAHASA DAN SASTRA INDONESIA",
+     "IdUniversitas": 28,
+     "nilai": 81.43
+    },
+    {
+     "jurusan": "BAHASA DAN SASTRA INGGRIS",
+     "IdUniversitas": 28,
+     "nilai": 81.88
+    },
+    {
+     "jurusan": "BIMBINGAN DAN KONSELING",
+     "IdUniversitas": 28,
+     "nilai": 86.78
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 28,
+     "nilai": 86.85
+    },
+    {
+     "jurusan": "DESAIN KOMUN IKASI VISUAL",
+     "IdUniversitas": 28,
+     "nilai": 86.8
+    },
+    {
+     "jurusan": "EKONOMI DAN STUDI PEMBANGUNAN",
+     "IdUniversitas": 28,
+     "nilai": 86.82
+    },
+    {
+     "jurusan": "FISIKA",
+     "IdUniversitas": 28,
+     "nilai": 82.85
+    },
+    {
+     "jurusan": "GEOGRAFI",
+     "IdUniversitas": 28,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "ILMU KEOLAHRAGAAN",
+     "IdUniversitas": 28,
+     "nilai": 80.35
+    },
+    {
+     "jurusan": "ILMU KESEHATAN MASYARAKAT",
+     "IdUniversitas": 28,
+     "nilai": 83.92
+    },
+    {
+     "jurusan": "ILMU PERPUSTAKAAN",
+     "IdUniversitas": 28,
+     "nilai": 80.3
+    },
+    {
+     "jurusan": "ILMU SEJARAH",
+     "IdUniversitas": 28,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "KIMIA",
+     "IdUniversitas": 28,
+     "nilai": 86.95
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 28,
+     "nilai": 83.91
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 28,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA, SASTRA INDONESIA DAN\nDAERAH",
+     "IdUniversitas": 28,
+     "nilai": 86.78
+    },
+    {
+     "jurusan": "PENDIDIKAN ADMINIS II-‹ASI PERKANTORAN",
+     "IdUniversitas": 28,
+     "nilai": 86.85
+    },
+    {
+     "jurusan": "PENDIDIKAN AKUNTANSI",
+     "IdUniversitas": 28,
+     "nilai": 81.79
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA ARAB",
+     "IdUniversitas": 28,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA INGGRIS",
+     "IdUniversitas": 28,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA JERMAN",
+     "IdUniversitas": 28,
+     "nilai": 80.61
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA MANDARIN",
+     "IdUniversitas": 28,
+     "nilai": 81.02
+    },
+    {
+     "jurusan": "PENDIDIKAN BIOLOGI",
+     "IdUniversitas": 28,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "PENDIDIKAN EKONOMI",
+     "IdUniversitas": 28,
+     "nilai": 81.77
+    },
+    {
+     "jurusan": "PENDIDIKAN FISIKA",
+     "IdUniversitas": 28,
+     "nilai": 82.76
+    },
+    {
+     "jurusan": "PENDIDIKAN GEOGRAFI",
+     "IdUniversitas": 28,
+     "nilai": 80.54
+    },
+    {
+     "jurusan": "PENDIDIKAN GURU PENDIDIKAN ANAK USIA DINI",
+     "IdUniversitas": 28,
+     "nilai": 80.54
+    },
+    {
+     "jurusan": "PENDIDIKAN GURU SEKOLAH DASAR",
+     "IdUniversitas": 28,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "PENDIDIKAN ILMU PENGETAHUAN  ALAM",
+     "IdUniversitas": 28,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "PENDIDIKAN ILMU PENGETAHUAN  SOSIAL",
+     "IdUniversitas": 28,
+     "nilai": 86.85
+    },
+    {
+     "jurusan": "PENDIDIKAN JASMAN I DAN KESEHATAN",
+     "IdUniversitas": 28,
+     "nilai": 86.85
+    },
+    {
+     "jurusan": "PENDIDIKAN KEPELATIHAN OLAHRAGA",
+     "IdUniversitas": 28,
+     "nilai": 86.84
+    },
+    {
+     "jurusan": "PENDIDIKAN KIMIA",
+     "IdUniversitas": 28,
+     "nilai": 86.87
+    },
+    {
+     "jurusan": "PENDIDIKAN LUAR BASA",
+     "IdUniversitas": 28,
+     "nilai": 80.93
+    },
+    {
+     "jurusan": "PENDIDIKAN LUAR SEKOLAH",
+     "IdUniversitas": 28,
+     "nilai": 80.93
+    },
+    {
+     "jurusan": "PENDIDIKAN MATEMATIKA",
+     "IdUniversitas": 28,
+     "nilai": 86.86
+    },
+    {
+     "jurusan": "PENDIDIKAN PANCASILA DAN\nKEWARGANEGARAAN",
+     "IdUniversitas": 28,
+     "nilai": 80.91
+    },
+    {
+     "jurusan": "PENDIDIKAN SEJARAH",
+     "IdUniversitas": 28,
+     "nilai": 80.91
+    },
+    {
+     "jurusan": "PENDIDIKAN SENI RUPA",
+     "IdUniversitas": 28,
+     "nilai": 80.9
+    },
+    {
+     "jurusan": "PENDIDIKAN SENI TARI DAN MUSIK",
+     "IdUniversitas": 28,
+     "nilai": 80.89
+    },
+    {
+     "jurusan": "PENDIDIKAN SOSIOLOGI",
+     "IdUniversitas": 28,
+     "nilai": 80.88
+    },
+    {
+     "jurusan": "PENDIDIKAN TATA BOGA",
+     "IdUniversitas": 28,
+     "nilai": 80.88
+    },
+    {
+     "jurusan": "PENDIDIKAN TATA BUSANA",
+     "IdUniversitas": 28,
+     "nilai": 80.87
+    },
+    {
+     "jurusan": "PENDIDIKAN TATA NIAGA",
+     "IdUniversitas": 28,
+     "nilai": 80.87
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK BANGUNAN",
+     "IdUniversitas": 28,
+     "nilai": 81.35
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK ELEKTRO",
+     "IdUniversitas": 28,
+     "nilai": 81.79
+    },
+    {
+     "jurusan": "PENDIDIKAN  II-KNIK INFORMATIKA",
+     "IdUniversitas": 28,
+     "nilai": 86.82
+    },
+    {
+     "jurusan": "PENDIDIKAN TEKNIK MESIN",
+     "IdUniversitas": 28,
+     "nilai": 81.77
+    },
+    {
+     "jurusan": "PENDIDIKAN  I eKNIK OTOMOTIF",
+     "IdUniversitas": 28,
+     "nilai": 81.76
+    },
+    {
+     "jurusan": "PSIKOLOGI",
+     "IdUniversitas": 28,
+     "nilai": 83.87
+    },
+    {
+     "jurusan": "TEKNIK ELEK II-‹O",
+     "IdUniversitas": 28,
+     "nilai": 86.87
+    },
+    {
+     "jurusan": "TEKNIK INDUSTRI",
+     "IdUniversitas": 28,
+     "nilai": 83.45
+    },
+    {
+     "jurusan": "TEKNIK INFORMATIKA",
+     "IdUniversitas": 28,
+     "nilai": 84.49
+    },
+    {
+     "jurusan": "TEKNIK MESIN",
+     "IdUniversitas": 28,
+     "nilai": 83.88
+    },
+    {
+     "jurusan": "TEKNIK SIPIL",
+     "IdUniversitas": 28,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "TEKNOLOGI PENDIDIKAN",
+     "IdUniversitas": 28,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 25,
+     "nilai": 81.38
+    },
+    {
+     "jurusan": "BAHASA DAN SASTRA INGGRIS",
+     "IdUniversitas": 25,
+     "nilai": 80.86
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 25,
+     "nilai": 80.85
+    },
+    {
+     "jurusan": "FARMASI",
+     "IdUniversitas": 25,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "FiSiKA",
+     "IdUniversitas": 25,
+     "nilai": 80.81
+    },
+    {
+     "jurusan": "KIMIA",
+     "IdUniversitas": 25,
+     "nilai": 80.15
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 25,
+     "nilai": 86.84
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 25,
+     "nilai": 80.37
+    },
+    {
+     "jurusan": "PENDIDIKAN DOKTER",
+     "IdUniversitas": 25,
+     "nilai": 81.91
+    },
+    {
+     "jurusan": "PENDIDIKAN IPS",
+     "IdUniversitas": 25,
+     "nilai": 80.95
+    },
+    {
+     "jurusan": "PERPUSTAKAAN DAN ILMU INFORMASI",
+     "IdUniversitas": 25,
+     "nilai": 86.8
+    },
+    {
+     "jurusan": "PSIKOLOGI",
+     "IdUniversitas": 25,
+     "nilai": 80.85
+    },
+    {
+     "jurusan": "TEKNIK ARSITEKTUR",
+     "IdUniversitas": 25,
+     "nilai": 80.86
+    },
+    {
+     "jurusan": "TEKNIK INFORMATIKA",
+     "IdUniversitas": 25,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "AGRIBISNIS",
+     "IdUniversitas": 26,
+     "nilai": 86.8
+    },
+    {
+     "jurusan": "AGRONOMI",
+     "IdUniversitas": 26,
+     "nilai": 86.35
+    },
+    {
+     "jurusan": "AGROTEKNOLOGI  \/ AGROEKOTEKNOLOGI",
+     "IdUniversitas": 26,
+     "nilai": 86.91
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 26,
+     "nilai": 86.38
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 26,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "EKONOMI PEMBANGUNAN",
+     "IdUniversitas": 26,
+     "nilai": 86.85
+    },
+    {
+     "jurusan": "EKONOMI SYARIAH",
+     "IdUniversitas": 26,
+     "nilai": 84.78
+    },
+    {
+     "jurusan": "EKONOMI SYARIAH KAMPUS BONDOWOSO",
+     "IdUniversitas": 26,
+     "nilai": 80.33
+    },
+    {
+     "jurusan": "FARMASI",
+     "IdUniversitas": 26,
+     "nilai": 86.85
+    },
+    {
+     "jurusan": "FISIKA",
+     "IdUniversitas": 26,
+     "nilai": 84.81
+    },
+    {
+     "jurusan": "GIZI",
+     "IdUniversitas": 26,
+     "nilai": 86.69
+    },
+    {
+     "jurusan": "HUBUNGAN INTERNASIONAL",
+     "IdUniversitas": 26,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "ILMU ADMINISTRASI BISNIS",
+     "IdUniversitas": 26,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "ILMU ADMINIS II-‹ASI NEGARA",
+     "IdUniversitas": 26,
+     "nilai": 86.8
+    },
+    {
+     "jurusan": "ILMU HUKUM",
+     "IdUniversitas": 26,
+     "nilai": 84.36
+    },
+    {
+     "jurusan": "ILMU KEPERAWATAN",
+     "IdUniversitas": 26,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "ILMU KESEJAHTERAAN  SOSIAL",
+     "IdUniversitas": 26,
+     "nilai": 86.8
+    },
+    {
+     "jurusan": "ILMU PERTANIAN",
+     "IdUniversitas": 26,
+     "nilai": 82.34
+    },
+    {
+     "jurusan": "ILMU SEJARAH",
+     "IdUniversitas": 26,
+     "nilai": 82.24
+    },
+    {
+     "jurusan": "ILMU TANAH",
+     "IdUniversitas": 26,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "INFORMATIKA",
+     "IdUniversitas": 26,
+     "nilai": 83.37
+    },
+    {
+     "jurusan": "KESEHATAN MASYARAKAT",
+     "IdUniversitas": 26,
+     "nilai": 86.81
+    },
+    {
+     "jurusan": "KIMIA",
+     "IdUniversitas": 26,
+     "nilai": 84.15
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 26,
+     "nilai": 86.79
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 26,
+     "nilai": 84.36
+    },
+    {
+     "jurusan": "PENDIDIKAN GURU SEKOLAH DASAR KAMPUS\nBONDOWOSO",
+     "IdUniversitas": 26,
+     "nilai": 80.31
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA INGGRIS",
+     "IdUniversitas": 26,
+     "nilai": 83.73
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA DAN SASTRA INDONESIA",
+     "IdUniversitas": 26,
+     "nilai": 86.84
+    },
+    {
+     "jurusan": "PENDIDIKAN BIOLOGI",
+     "IdUniversitas": 26,
+     "nilai": 84.74
+    },
+    {
+     "jurusan": "PENDIDIKAN DOKTER",
+     "IdUniversitas": 26,
+     "nilai": 86.91
+    },
+    {
+     "jurusan": "PENDIDIKAN DOKTER GIGI",
+     "IdUniversitas": 26,
+     "nilai": 86.82
+    },
+    {
+     "jurusan": "PENDIDIKAN EKONOMI",
+     "IdUniversitas": 26,
+     "nilai": 83.74
+    },
+    {
+     "jurusan": "PENDIDIKAN FISIKA",
+     "IdUniversitas": 26,
+     "nilai": 84.72
+    },
+    {
+     "jurusan": "PENDIDIKAN GEOGRAFI",
+     "IdUniversitas": 26,
+     "nilai": 80.3
+    },
+    {
+     "jurusan": "PENDIDIKAN GURU SEKOLAH DASAR",
+     "IdUniversitas": 26,
+     "nilai": 82.95
+    },
+    {
+     "jurusan": "PENDIDIKAN IPA",
+     "IdUniversitas": 26,
+     "nilai": 82.95
+    },
+    {
+     "jurusan": "PENDIDIKAN LUAR SEKOLAH",
+     "IdUniversitas": 26,
+     "nilai": 82.9
+    },
+    {
+     "jurusan": "PENDIDIKAN MATEMATIKA",
+     "IdUniversitas": 26,
+     "nilai": 84.7
+    },
+    {
+     "jurusan": "PENDIDIKAN SEJARAH",
+     "IdUniversitas": 26,
+     "nilai": 82.88
+    },
+    {
+     "jurusan": "PENYULUHAN  PERTANIAN",
+     "IdUniversitas": 26,
+     "nilai": 80.31
+    },
+    {
+     "jurusan": "PERENGANAAN  W ILAYAH DAN KOTA",
+     "IdUniversitas": 26,
+     "nilai": 80.31
+    },
+    {
+     "jurusan": "PETERNAKAN",
+     "IdUniversitas": 26,
+     "nilai": 80.32
+    },
+    {
+     "jurusan": "PG-PAUD",
+     "IdUniversitas": 26,
+     "nilai": 81.91
+    },
+    {
+     "jurusan": "PROTEKSI TANAMAN",
+     "IdUniversitas": 26,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "SAS II-tA INDONESIA",
+     "IdUniversitas": 26,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "SAS II-‹A INGGRIS",
+     "IdUniversitas": 26,
+     "nilai": 86.83
+    },
+    {
+     "jurusan": "SISTEM INFORMASI",
+     "IdUniversitas": 26,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "SOSIOLOGI",
+     "IdUniversitas": 26,
+     "nilai": 86.76
+    },
+    {
+     "jurusan": "TEKNIK ELEKTRO",
+     "IdUniversitas": 26,
+     "nilai": 86.42
+    },
+    {
+     "jurusan": "TEKNIK KIMIA",
+     "IdUniversitas": 26,
+     "nilai": 80.41
+    },
+    {
+     "jurusan": "I I-KNIK KONS I I-tUKSI PERKAPALAN",
+     "IdUniversitas": 26,
+     "nilai": 80.38
+    },
+    {
+     "jurusan": "TEKNIK LINGKUNGAN",
+     "IdUniversitas": 26,
+     "nilai": 80.36
+    },
+    {
+     "jurusan": "TEKNIK MESIN",
+     "IdUniversitas": 26,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "TEKNIK PERMINYAKAN",
+     "IdUniversitas": 26,
+     "nilai": 84.29
+    },
+    {
+     "jurusan": "TEKNIK PERTAMBANGAN",
+     "IdUniversitas": 26,
+     "nilai": 80.13
+    },
+    {
+     "jurusan": "TEKNIK PERTANIAN",
+     "IdUniversitas": 26,
+     "nilai": 86.91
+    },
+    {
+     "jurusan": "TEKNIK SIPIL",
+     "IdUniversitas": 26,
+     "nilai": 86.88
+    },
+    {
+     "jurusan": "TEKNOLOGI HASIL PERTANIAN",
+     "IdUniversitas": 26,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "I f-KNOLOGI INDUS I ftI PEI-t I ANIAN",
+     "IdUniversitas": 26,
+     "nilai": 86.86
+    },
+    {
+     "jurusan": "TEKNOLOGI INFORMASI",
+     "IdUniversitas": 26,
+     "nilai": 86.84
+    },
+    {
+     "jurusan": "TELEVISI DAN FILM",
+     "IdUniversitas": 26,
+     "nilai": 86.77
+    },
+    {
+     "jurusan": "AGRIBISNIS",
+     "IdUniversitas": 38,
+     "nilai": 79.36
+    },
+    {
+     "jurusan": "AGROEKOTEKNOLOGI",
+     "IdUniversitas": 38,
+     "nilai": 79.54
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 38,
+     "nilai": 79.29
+    },
+    {
+     "jurusan": "EKONOMI PEMBANGUNAN",
+     "IdUniversitas": 38,
+     "nilai": 79.28
+    },
+    {
+     "jurusan": "EKONOMI SYARIAH",
+     "IdUniversitas": 38,
+     "nilai": 79.47
+    },
+    {
+     "jurusan": "HUKUM BISNIS SYARIAH",
+     "IdUniversitas": 38,
+     "nilai": 79.49
+    },
+    {
+     "jurusan": "ILMU HUKUM",
+     "IdUniversitas": 38,
+     "nilai": 79.41
+    },
+    {
+     "jurusan": "ILMU KELAUTAN",
+     "IdUniversitas": 38,
+     "nilai": 79.58
+    },
+    {
+     "jurusan": "ILMU KOMUNIKASI",
+     "IdUniversitas": 38,
+     "nilai": 79.19
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 38,
+     "nilai": 86.8
+    },
+    {
+     "jurusan": "MANAJEMEN SUMBERDAYA PERAIRAN",
+     "IdUniversitas": 38,
+     "nilai": 79.42
+    },
+    {
+     "jurusan": "PENDIDIKAN BAHASA DAN SASTRA INDONESIA",
+     "IdUniversitas": 38,
+     "nilai": 79.22
+    },
+    {
+     "jurusan": "PENDIDIKAN GURU ANAK USIA DINI",
+     "IdUniversitas": 38,
+     "nilai": 79.58
+    },
+    {
+     "jurusan": "PENDIDIKAN ILMU PENGETAHUAN  ALAM",
+     "IdUniversitas": 38,
+     "nilai": 79.33
+    },
+    {
+     "jurusan": "PENDIDIKAN INFORMATIKA",
+     "IdUniversitas": 38,
+     "nilai": 79.56
+    },
+    {
+     "jurusan": "PGSD",
+     "IdUniversitas": 38,
+     "nilai": 79.26
+    },
+    {
+     "jurusan": "PSIKOLOGI",
+     "IdUniversitas": 38,
+     "nilai": 79.16
+    },
+    {
+     "jurusan": "SASTRA INGGRIS",
+     "IdUniversitas": 38,
+     "nilai": 79.35
+    },
+    {
+     "jurusan": "SISTEM INFORMASI",
+     "IdUniversitas": 38,
+     "nilai": 79.44
+    },
+    {
+     "jurusan": "SOSIOLOGI",
+     "IdUniversitas": 38,
+     "nilai": 79.2
+    },
+    {
+     "jurusan": "TEKNIK ELEK II-‹O",
+     "IdUniversitas": 38,
+     "nilai": 79.41
+    },
+    {
+     "jurusan": "TEKNIK INDUSTRI",
+     "IdUniversitas": 38,
+     "nilai": 79.47
+    },
+    {
+     "jurusan": "TEKNIK INFORMATIKA",
+     "IdUniversitas": 38,
+     "nilai": 79.27
+    },
+    {
+     "jurusan": "TEKNIK MEKATRONIKA",
+     "IdUniversitas": 38,
+     "nilai": 79.93
+    },
+    {
+     "jurusan": "TEKNIK MESIN",
+     "IdUniversitas": 38,
+     "nilai": 79.39
+    },
+    {
+     "jurusan": "TEKNOLOGI INDUS II-II PEI-t I ANIAN",
+     "IdUniversitas": 38,
+     "nilai": 79.32
+    },
+    {
+     "jurusan": "ADMINISTRASI NEGARA",
+     "IdUniversitas": 35,
+     "nilai": 83.7
+    },
+    {
+     "jurusan": "AGRIBISNIS",
+     "IdUniversitas": 35,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "AGROEKOTEKNOLOGI",
+     "IdUniversitas": 35,
+     "nilai": 84.68
+    },
+    {
+     "jurusan": "AKUNTANSI",
+     "IdUniversitas": 35,
+     "nilai": 85.98
+    },
+    {
+     "jurusan": "ANTROPOLOGI BUDAYA",
+     "IdUniversitas": 35,
+     "nilai": 81.91
+    },
+    {
+     "jurusan": "ARKEOLOGI",
+     "IdUniversitas": 35,
+     "nilai": 81.91
+    },
+    {
+     "jurusan": "ARSITEKTUR PEI t I AMANAN",
+     "IdUniversitas": 35,
+     "nilai": 86.91
+    },
+    {
+     "jurusan": "BIOLOGI",
+     "IdUniversitas": 35,
+     "nilai": 84.13
+    },
+    {
+     "jurusan": "DESTINASI PARIW ISATA",
+     "IdUniversitas": 35,
+     "nilai": 81.61
+    },
+    {
+     "jurusan": "EKONOMI PEMBANGUNAN",
+     "IdUniversitas": 35,
+     "nilai": 86.85
+    },
+    {
+     "jurusan": "FARMASI",
+     "IdUniversitas": 35,
+     "nilai": 85.68
+    },
+    {
+     "jurusan": "FISIKA",
+     "IdUniversitas": 35,
+     "nilai": 84.1
+    },
+    {
+     "jurusan": "FISIOTERAPI",
+     "IdUniversitas": 35,
+     "nilai": 84.07
+    },
+    {
+     "jurusan": "HUBUNGAN INTERNASIONAL",
+     "IdUniversitas": 35,
+     "nilai": 83.67
+    },
+    {
+     "jurusan": "ILMU DAN TEKNOLOGI PANGAN",
+     "IdUniversitas": 35,
+     "nilai": 86.91
+    },
+    {
+     "jurusan": "ILMU HUKUM",
+     "IdUniversitas": 35,
+     "nilai": 86.87
+    },
+    {
+     "jurusan": "ILMU KELAUTAN",
+     "IdUniversitas": 35,
+     "nilai": 86.93
+    },
+    {
+     "jurusan": "ILMU KEPERAWATAN",
+     "IdUniversitas": 35,
+     "nilai": 86.84
+    },
+    {
+     "jurusan": "ILMU KESEHATAN MASYARAKAT",
+     "IdUniversitas": 35,
+     "nilai": 85.19
+    },
+    {
+     "jurusan": "ILMU KOMPU II-R \/ TEKNIK INFORMATIKA",
+     "IdUniversitas": 35,
+     "nilai": 86.89
+    },
+    {
+     "jurusan": "ILMU KOMUNIKASI",
+     "IdUniversitas": 35,
+     "nilai": 81.86
+    },
+    {
+     "jurusan": "ILMU POLITIK",
+     "IdUniversitas": 35,
+     "nilai": 86.91
+    },
+    {
+     "jurusan": "ILMU SEJARAH",
+     "IdUniversitas": 35,
+     "nilai": 81.54
+    },
+    {
+     "jurusan": "INDUSTRI PERJALANAN  WISATA",
+     "IdUniversitas": 35,
+     "nilai": 86.87
+    },
+    {
+     "jurusan": "KEDOKTERAN HEWAN",
+     "IdUniversitas": 35,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "KIMIA",
+     "IdUniversitas": 35,
+     "nilai": 83.44
+    },
+    {
+     "jurusan": "MANAJEMEN",
+     "IdUniversitas": 35,
+     "nilai": 85.15
+    },
+    {
+     "jurusan": "MANAJEMEN SUMBER DAYA PeFiAIRAN",
+     "IdUniversitas": 35,
+     "nilai": 82.66
+    },
+    {
+     "jurusan": "MATEMATIKA",
+     "IdUniversitas": 35,
+     "nilai": 83.65
+    },
+    {
+     "jurusan": "PENDIDIKAN DOKTER",
+     "IdUniversitas": 35,
+     "nilai": 86.92
+    },
+    {
+     "jurusan": "PENDIDIKAN DOKTER GIGI",
+     "IdUniversitas": 35,
+     "nilai": 85.64
+    },
+    {
+     "jurusan": "PI- I ERNAKAN",
+     "IdUniversitas": 35,
+     "nilai": 81.82
+    },
+    {
+     "jurusan": "PSIKOLOGI",
+     "IdUniversitas": 35,
+     "nilai": 85.14
+    },
+    {
+     "jurusan": "SASTRA DAERAH JAWA KUNA",
+     "IdUniversitas": 35,
+     "nilai": 81.12
+    },
+    {
+     "jurusan": "SASTRA DAERAH UNTUK SASTRA BALI",
+     "IdUniversitas": 35,
+     "nilai": 81.12
+    },
+    {
+     "jurusan": "SASTRA INDONESIA",
+     "IdUniversitas": 35,
+     "nilai": 82.55
+    },
+    {
+     "jurusan": "SASTRA INGGRIS",
+     "IdUniversitas": 35,
+     "nilai": 82.98
+    },
+    {
+     "jurusan": "SASTRA  JEPANG",
+     "IdUniversitas": 35,
+     "nilai": 82.27
+    },
+    {
+     "jurusan": "SOSIOLOGI",
+     "IdUniversitas": 35,
+     "nilai": 86.9
+    },
+    {
+     "jurusan": "TEKNIK ARSITEKTUR",
+     "IdUniversitas": 35,
+     "nilai": 85.17
+    },
+    {
+     "jurusan": "TEKNIK ELEKTFtO",
+     "IdUniversitas": 35,
+     "nilai": 85.72
+    },
+    {
+     "jurusan": "TEKNIK MESIN",
+     "IdUniversitas": 35,
+     "nilai": 85.15
+    },
+    {
+     "jurusan": "TEKNIK PERTANIAN",
+     "IdUniversitas": 35,
+     "nilai": 86.97
+    },
+    {
+     "jurusan": "TEKNIK SIPIL",
+     "IdUniversitas": 35,
+     "nilai": 86.85
+    },
+    {
+     "jurusan": "TEKNOLOGI INDUS”rFtI PERTANIAN",
+     "IdUniversitas": 35,
+     "nilai": 83.39
+    },
+    {
+     "jurusan": "TEKNOLOGI INFORMASI",
+     "IdUniversitas": 35,
+     "nilai": 86.89
+    }
+   ]
